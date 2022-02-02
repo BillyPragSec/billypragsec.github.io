@@ -1,0 +1,16 @@
+title: ADnD
+url: "https://adnd.work"
+
+markdown: kramdown
+
+nav:
+    - {name: CFP, link: '/'}
+    - {name: 2022, link: '/ADNDprogram22/'}
+
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+

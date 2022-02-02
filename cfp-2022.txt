@@ -1,0 +1,121 @@
+## Call for Papers: Workshop on Measurements, Attacks, and Defenses for the Web
+(MADWeb) 2022
+
+The web connects billions of devices, running a plethora of clients, and serves
+billions of users every day. To cope with such a widespread adoption, the web
+constantly changes. This is evident by some browsers that have a release cycle
+of just six weeks. These rapid changes are not always studied from a security
+perspective, resulting in new attack vectors that were never observed before.
+
+The proposed workshop aims to attract researchers that work on the intersection
+of browser evolution and web security. Our goal is to create and sustain a new
+venue for discussing the rapid changes to browsers from a security perspective,
+the security implications of current web technologies, how we can protect users
+now, and make browsers in the future more secure without hindering the evolution
+of the web.
+
+
+## Important Dates
+
+* Paper submission: January 3, 2022  Anywhere-on-earth (AOE) 
+* Acceptance notification: February 7, 2022 
+* Workshop date: March 3, 2022 
+(co-located with NDSS 2022: https://www.ndss-symposium.org)
+
+
+## Areas of Interest
+
+Submissions are solicited in, but not limited to, the following areas:
+
+* Fingerprinting and tracking on the web 
+* Browser exploitation and defenses 
+* Secure browser architectures 
+* Security policies for the web 
+* Security of progressive web apps 
+* Measurement studies of online crime, fraud, and underground economies 
+* Measurement studies of web security & privacy issues 
+* Privacy-enhancing technologies for the web 
+* Security and privacy of emerging web technologies 
+* Machine learning and AI applications for a secure web 
+* Data-driven web security and malware detection 
+* Anti-phishing technologies 
+* Detection of bots and crawlers/scrapers 
+* Unethical and illicit activity on the web 
+* Disinformation and deception threats 
+* DNS security and privacy 
+* Digital forensics for the web
+
+
+## Submission Instructions
+
+All papers must be written in English. Papers must be formatted for US letter
+size (not A4) paper in a two-column layout, with columns no more than 9.25 in.
+high and 3.5 in. wide. The text must be in Times font, 10-point or larger, with
+11-point or larger line spacing. Authors are strongly encouraged to use the
+templates provided by NDSS.
+
+We invite both full papers and short papers. Full papers should have no more
+than 10 pages in total (excluding references and appendices). Short papers must
+have less than 6 pages (again, excluding references and appendices), and can
+discuss work-in-progress and novel ideas. Short papers will be selected based on
+their potential to spark interesting discussions during the workshop.
+
+Submissions must be properly anonymized for double-blind review (please follow
+NDSS guidelines on paper anonymization). 
+
+Submission site: https://madweb22.hotcrp.com
+
+
+## Workshop Format
+
+MADWeb will be co-located with NDSS 2022 and will follow the same format as the
+main conference.
+
+One author of each accepted paper is expected to present the paper at the
+workshop. The format will be traditional conference-style research presentations
+with questions from the audience. Interactive and engaging presentations are
+welcomed. Following notification to authors, more information will be provided
+regarding speaking times and other details.
+
+The accepted papers will be made available on the workshop website and the
+workshop will have official proceedings. Publication in the proceedings is not
+mandatory and authors can choose to have their papers excluded from the official
+proceedings by selecting "No proceedings" during submission in HotCRP.
+
+
+## Financial Support
+
+MADWeb will provide limited financial support to a selected number of speakers
+and attendees to pay workshop registration fees. Priority will be given to
+authors of accepted papers, students working in relevant areas of research and
+coming from under-represented institutions, attendees who have clear financial
+need, attendees from diverse backgrounds and from under-represented minority
+communities.
+
+Please add any relevant information under "Request financial support for
+attending the workshop?" to your submission in HotCRP, or contact the PC chairs
+if you have any questions or special requests.
+
+
+## Program Committee Co-Chairs
+
+* Roberto Perdisci, University of Georgia
+* Zubair Shafiq, University of California, Davis
+
+
+## Program Committee
+
+TBD
+
+
+## Steering Committee
+
+* Alexandros Kapravelos, North Carolina State University
+* Nick Nikiforakis, Stony Brook University
+* Oleksii Starov, Palo Alto Networks
+
+
+## Sponsors
+
+MADWeb 2022 is partially supported by Palo Alto
+Networks https://www.paloaltonetworks.com.
