@@ -3,7 +3,7 @@ layout: default
 description: Workshop on Active Defense and Deception (AD&D)
 ---
 
-## Call for Papers: Workshop on Active Defense and Deception (2022)
+## Workshop on Active Defense and Deception (2022)
 
 
 
