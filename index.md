@@ -43,9 +43,6 @@ Please add any relevant information under "Request financial support for attendi
 
 ## Program Committee Co-Chairs
 
-* Roberto Perdisci, _University of Georgia and Georgia Institute of Technology_
-* Zubair Shafiq, _University of California, Davis_
-
 
 ## Program Committee
 
