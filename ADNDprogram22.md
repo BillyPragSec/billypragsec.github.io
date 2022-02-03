@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AD&D 2020 Program
-permalink: /program20/
+title: AD&D 2022 Program
+permalink: /ADNDprogram22/
 ---
 
 # {{page.title}}
