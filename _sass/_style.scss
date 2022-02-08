@@ -11,16 +11,28 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Dosis";
     height: 100%;
 }
-a {
+
+a{  
     text-decoration: none;
-    color: $accent;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, rgb(1, 198, 212), rgb(11, 78, 117) 50%, rgb(0, 65, 82) 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+    }
+    
+a:hover{
+    background-position: 0 100%;
 }
-a:hover {
-    text-decoration: underline;
-}
+
+
 hr {
     border: 0;
     height: 0;
@@ -33,26 +45,32 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: 34px;
     color: #272727;
     display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 20px 0 20px 0;
+    text-align: center;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
+    padding: 0px 0 0px 0;
+    margin-left: 0px;
 }
 .nav-list {
     list-style-type: none;
-    margin: 0 5px 0 10px;
+    margin: 0 20px 0 10px;
+    float: center;
+    position: relative;
+    font-size:24px;
+    font-weight: 600;
 }
 .alignable {
     display: inline-block;
 }
+
 .pull-left {
     @extend .alignable;
     float: left;
@@ -60,6 +78,10 @@ hr {
 .pull-right {
     @extend .alignable;
     float: right;
+}
+.pull-center{
+    @extend .alignable;
+    float: center;
 }
 
 /* Divs */
@@ -70,6 +92,7 @@ hr {
 }
 .wrapper {
     min-height: 100%;
+    background-color: rgba(250, 255, 255, 0.904);
 }
 
 /* Mobile */
@@ -97,7 +120,7 @@ hr {
 	}
 	#author-name {
 		width: 100%;
-		float: none;
+		float: center;
 	}
 	#navlist {
 		padding: 10px 0 10px 0;
@@ -118,5 +141,21 @@ hr {
 	}
 }
 
+
 @import "typography";
 @import "tables";
+
+
+// adnd additions
+
+#banner{
+    background-image: linear-gradient(to bottom, rgba(0, 58, 58, 0.733), rgb(234, 255, 255)), url("../images/background.jpeg");
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+
+
+
+

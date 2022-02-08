@@ -1,11 +1,13 @@
-title: AD&D
+title: Workshop on Active Defense and Deception (AD&D)
 url: "adnd.work"
 
 markdown: kramdown
 
 nav:
-    - {name: CFP, link: '/'}
-    - {name: 2022, link: '/ADNDprogram22/'}
+    - {name: CFP, link: '/index.html#call-for-contributions'}
+    - {name: Submission, link: '/index.html#submission-types-and-format'}
+    - {name: Schedule 2022, link: '/'}
+    
 
 
 tracking_id: #

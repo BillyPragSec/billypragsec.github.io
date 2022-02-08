@@ -21,6 +21,7 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500;600&display=swap" rel="stylesheet"> 
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -55,17 +56,35 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
+        <div id="banner">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="container">
+            <a id="author-name" class="alignable" href="{{ site.baseurl }}"><b>{{ site.title }}</b></a>
+        
+            </div>
+        </div>
+        <hr>
+        
+        <div class="container navbar">
+            <ul id="navlist" class="alignable navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable nav-list">
+                            <a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
-                        /
                     {% endif %}
                         </li>
                 {% endfor %}
