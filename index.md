@@ -80,8 +80,8 @@ Submissions must be in Portable Document Format (.pdf), preferably following the
 
 ## Workshop Format
 One author of each accepted research paper or proposal is expected to present the work at the workshop. The format is expected to include traditional conference-style presentations followed by roundtable discussion and feedback. Interactive and engaging presentations are welcomed. Following notification to authors, more information will be provided regarding speaking times and other details.
-Research Papers: Accepted research papers will be made available on the workshop web site, but the workshop will have no official proceedings.
-Research Proposals: Research proposals are intended for PC review. Only titles, abstracts, and funding sources for these talks will be posted on the workshop web site, and we will request that the authors provide these in both text and PDF format.
+* _Research Papers_: Accepted research papers will be made available on the workshop web site, but the workshop will have no official proceedings.
+* _Research Proposals_: Research proposals are intended for PC review. Only titles, abstracts, and funding sources for these talks will be posted on the workshop web site, and we will request that the authors provide these in both text and PDF format.
 
 
 
