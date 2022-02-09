@@ -105,7 +105,4 @@ Only the titles and abstracts of the accepted contributions will be made availab
 ### Publicity chair: 
 * Billy Tsouvalas, _Stony Brook University_
 
-
-
-
 ---
