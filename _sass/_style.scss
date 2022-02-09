@@ -87,7 +87,8 @@ hr {
 /* Divs */
 
 .container {
-    max-width: $max-width;
+    //max-width: $max-width;
+    max-width: 60%;
     margin: auto;
 }
 .wrapper {
