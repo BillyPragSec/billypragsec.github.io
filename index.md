@@ -38,9 +38,10 @@ Organizing committee will evaluate the submissions based on relevancy, impact, a
 
 ## Important Dates
 
-* Paper submission: 
-* Acceptance notification: 
-* Workshop date: June 10, 2022
+* Submission deadline: March 25, 2022
+* Notification: April 8, 2022
+* Workshop: June 10, 2022
+
 
 
 ### Areas of Interest
