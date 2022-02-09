@@ -5,8 +5,8 @@ markdown: kramdown
 
 nav:
     - {name: CFP, link: '/index.html#call-for-contributions'}
-    - {name: Submission, link: '/index.html#submission-types-and-format'}
-    - {name: Schedule, link: '/'}
+    - {name: Submission, link: '/index.html#submission-guidelines'}
+    - {name: Schedule, link: '/schedule/'}
     
 
 
