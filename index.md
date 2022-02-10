@@ -11,14 +11,14 @@ Traditionally, information security distinguishes the roles of the attacker and 
 Active defense can mitigate these problems by finding ways to proactively engage with the attackers during the early stages of the attack lifecycle. This can be implemented in various ways, such as by mutating/diversifying the system (i.e, Moving Target Defense), adapting to the attacks in real time (Adaptive defense), and by introducing runtime defenses (e.g., RASP). One important aspect of active defense is deception, where the defender can place enticing traps around the system, mimic vulnerabilities, or obfuscate system elements to deceive, confuse, and mislead possible attackers. Since some of the most destructive attacks (such as supply-chain attacks and phishing campaigns) are composed of multiple stages, active defense has the potential to detect such attacks with straightforward techniques. Despite the high accuracy promised by these techniques, active defense has not been widely adopted in information security. Possible reasons include the fact that it requires a multidisciplinary approach and a good understanding of the human aspect and the psychology of the attackers, that its effectiveness is hard to quantify, and that it may be difficult to integrate active defense at different layers in the target system.
 
 Thus, this workshop aims to bring together researchers from a variety of fields such as psychology and cognitive science, with experts in different forms of deception for defense, but also in offense techniques (such as social engineering and disinformation). In particular, we aim to address the following questions:
-How can we evaluate and demonstrate the effectiveness of active defense?
-What is the impact of attackers’ deception awareness?
-How can we impact the attackers’ decision making process to make them waste more resources?
-Is it possible to reuse offensive deception techniques against attackers?
-How can we optimize the enticement of deceptive elements without making them too obvious?
-How can deceptive elements be updated to ensure long-term effectiveness?
-What are the myths vs. real world experiences on active defense?
-How can we move forward to increase the adoption of active defense?
+- How can we evaluate and demonstrate the effectiveness of active defense?
+- What is the impact of attackers’ deception awareness?
+- How can we impact the attackers’ decision making process to make them waste more resources?
+- Is it possible to reuse offensive deception techniques against attackers?
+- How can we optimize the enticement of deceptive elements without making them too obvious?
+- How can deceptive elements be updated to ensure long-term effectiveness?
+- What are the myths vs. real world experiences on active defense?
+- How can we move forward to increase the adoption of active defense?
 
 [*] M-Trends 2021 FireEye Mandiant Services Special Report, <https://www.mandiant.com/media/11031/download>
 
