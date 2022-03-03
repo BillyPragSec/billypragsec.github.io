@@ -92,8 +92,7 @@ One author of each accepted research paper or proposal is expected to present th
 -->
 One author of each accepted contribution is expected to present the work at the workshop. The format will be traditional conference-style presentations followed by questions and feedback from the audience. Interactive and engaging presentations are welcomed. 
 
-Following notification to authors, more information will be provided regarding speaking times and other details.
-Only the titles and abstracts of the accepted contributions will be made available on the workshop website. The workshop will not have official proceedings. 
+Following notification to authors, more information will be provided regarding speaking times and other details. The authors of accepted research papers can choose whether they want their papers to be part of official ADND proceedings. The camera-ready deadline for these papers will be on April 15, 2022. 
 
 
 ## Organization
