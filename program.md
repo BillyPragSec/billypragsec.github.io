@@ -10,7 +10,7 @@ permalink: /program/
 | --- | --- |
 | 8:45am - 9:00am | **Opening Remarks** |
 | 9:00am - 9:30am | **Invited talk:** <br>Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research, NSA Research_ |
-| 9:30am - 10:00am  | **Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape** <br> Shreyas Srinivasa_, _Jens Myrup Pedersen_, _Emmanouil Vasilomanolakis| 
+| 9:30am - 10:00am  | **Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape** <br> Shreyas Srinivasa, Jens Myrup Pedersen, Emmanouil Vasilomanolakis| 
 | 10:00am - 10:30am | **COFFEE BREAK** |
 | 10:30am - 11:00am | **Invited talk:** <br>Savvas Zannettou, _Max Planck Institute for Informatics_ |
 | 11:00am - 11:30am | **Invited talk:** <br>Tolga Unlu , _Abertay University_ |
