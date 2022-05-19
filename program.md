@@ -15,7 +15,7 @@ permalink: /program/
 |10:30am - 11:00am| **COFFEE BREAK** |
 |11:00am - 11:30am| **Invited talk: Ready for Detection! A Survey on Attack-Awareness Means in Web Frameworks** <br>Tolga Unlu, _Abertay University_ |
 |11:30am - 12:00pm| **AI-based Sound-Squatting Attack Made Possible** <br> Rodolfo Valentim, Idilio Drago, Federico Cerutti, Marco Mellia|
-|12:00pm - 12:30pm| **Invited talk: : Designing Effective Masking Strategies for Cyberdefense Through Human Experimentation and Cognitive Models** <br>Palvi Aggarwal, _University of Texas El Paso_ |
+|12:00pm - 12:30pm| **Invited talk: Designing Effective Masking Strategies for Cyberdefense Through Human Experimentation and Cognitive Models** <br>Palvi Aggarwal, _University of Texas El Paso_ |
 |12:30pm - 1:00pm| **Are Cyber Attackers Thinking Fast and Slow? Exploratory Analysis Reveals Evidence of Decision-Making Biases in Red Teamers** <br> Robert Gutzwiller, Kimberly Ferguson-Walter, Sunny Fugate|
 |1:00pm| **Closing Remarks**|
 
