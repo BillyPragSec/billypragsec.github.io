@@ -1,4 +1,4 @@
-title: 1st Workshop on Active Defense and Deception (AD&D) <br> June 10th, 2022
+title: 2nd Workshop on Active Defense and Deception (AD&D) <br> July 3-7, 2023 Delft
 url: "adnd.work"
 
 markdown: kramdown
@@ -6,8 +6,8 @@ markdown: kramdown
 nav:
     - {name: CFP, link: '/index.html#call-for-contributions'}
     - {name: Submission, link: '/index.html#submission-guidelines'}
-    - {name: Accepted Papers, link: '/accepted_papers/'}
     - {name: Program, link: '/program/'}
+    - {name: ADnD 2022 (Archive), link: '/archive/'}
     
 
 
