@@ -95,7 +95,6 @@ The authors of accepted research papers can choose whether they want their paper
 * Submission deadline: March 15, 2023
 * Acceptance Notice to Authors: April 10, 2023
 * Publication-ready Papers Submitted: May 15, 2023
-* Workshop Exact Date: TBA
 
 
 
