@@ -145,6 +145,7 @@ Following notification to authors, more information will be provided regarding s
 * Laura Tinnel, _SRI International_
 * Emmanouil Vasilomanolakis, _Technical University of Denmark_
 * Savvas Zannettou, _Delft University of Technology_
+* Davide Balzarotti, _EURECOM_
 <br>
 <br>
 ---
