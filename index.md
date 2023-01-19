@@ -139,7 +139,7 @@ Following notification to authors, more information will be provided regarding s
 ### Publicity chair: 
 * Billy Tsouvalas, _Stony Brook University_
 
-### PC Members
+### Program Committee
 * Palvi Aggarwal, _University of Texas El Paso_
 * Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research_
 * Laura Tinnel, _SRI International_
