@@ -139,6 +139,12 @@ Following notification to authors, more information will be provided regarding s
 ### Publicity chair: 
 * Billy Tsouvalas, _Stony Brook University_
 
+### PC Members
+* Palvi Aggarwal, _University of Texas El Paso_
+* Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research_
+* Laura Tinnel, _SRI International_
+* Emmanouil Vasilomanolakis, _Technical University of Denmark_
+* Savvas Zannettou, _Delft University of Technology_
 <br>
 <br>
 ---
