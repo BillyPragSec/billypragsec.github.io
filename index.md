@@ -92,7 +92,7 @@ The authors of accepted research papers can choose whether they want their paper
 * Notification: April 8, 2022
 * Workshop: June 10, 2022
 -->
-* Submission deadline: March 15, 2023
+* Submission deadline: ~~March 15, 2023~~ March 20, 2023 (extension)
 * Acceptance Notice to Authors: April 10, 2023
 * Publication-ready Papers Submitted: May 15, 2023
 
