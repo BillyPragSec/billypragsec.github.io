@@ -6,8 +6,9 @@ markdown: kramdown
 nav:
     - {name: CFP, link: '/index.html#call-for-contributions'}
     - {name: Submission, link: '/index.html#submission-guidelines'}
-    - {name: Program, link: '/program/'}
-    - {name: ADnD 2022 (Archive), link: '/archive/'}
+    - {name: Accepted Papers, link: '/accepted_papers_2023/'}
+    - {name: Program, link: '/program_2023/'}
+    - {name: ADnD 2022 (Archive), link: '/archive_2022/'}
     
 
 

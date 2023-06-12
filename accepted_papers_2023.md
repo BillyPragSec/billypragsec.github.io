@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ADnD 2022 Accepted Papers
-permalink: /accepted_papers/
+title: ADnD 2023 Accepted Papers
+permalink: /accepted_papers_2023/
 ---
 
 # Accepted Papers
