@@ -6,22 +6,26 @@ permalink: /accepted_papers_2023/
 
 # Accepted Papers
 
-## Are Cyber Attackers Thinking Fast and Slow? Exploratory Analysis Reveals Evidence of Decision-Making Biases in Red Teamers
-* Robert Gutzwiller, _Arizona State University_
-* Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity
-  Research_
-* Sunny Fugate, _Naval Information Warfare Center Pacific_
+## Learning to Defend by Attacking (and Vice-Versa): Transfer Learning in Cyber-Security Games
+* Tyler Malloy, _Carnegie Mellon University_
+* Cleotilde Gonzalez, _Carnegie Mellon University_
 
-## Deceptive directories and “vulnerable” logs: a honeypot study of the LDAP and log4j attack landscape
-* Shreyas Srinivasa, _Aalborg University, Denmark_
-* Jens Myrup Pedersen, _Aalborg University, Denmark_
-* Emmanouil Vasilomanolakis, _Aalborg University, Denmark_
+## Towards In-situ Psychological Profiling of Attackers Using Dynamically Generated Deception Environments – A Proof-of-Concept Proposal
+* Jacob Quibell, _Cranfield University_
 
-## AI-based Sound-Squatting Attack Made Possible
-* Rodolfo Valentim, _Politecnico di Torino_
-* Idilio Drago, _Università di Torino_
-* Federico Cerutti, _Università degli Studi di Brescia_
-* Marco Mellia, _Politecnico di Torino_
+## Decision-Making Biases in Cybersecurity: Measuring the Impact of the Sunk Cost Fallacy to Delay Attacker Behavior
+* Chelsea Johnson, _US Department of Defense_
+
+## Honey Infiltrator: Injecting Honeytoken Using Netfilter
+* Daniel Reti, _German Research Center for Artificial Intelligence GmbH_
+* Tillmann Angeli, _German Research Center for Artificial Intelligence GmbH_
+* Hans Dieter Schotten, _German Research Center for Artificial Intelligence GmbH_
+
+## How well does GPT phish people? An investigation involving cognitive biases and feedback
+* Megha Sharma, _Applied Cognitive Science Lab, Indian Institute of Technology Mandi, Kamand, Himachal Pradesh, India_
+* Palvi Aggarwal, _University of Texas El Paso_
+* Kuldeep Singh, _University of Texas El Paso_
+* Varun Dutt, _Applied Cognitive Science Lab, Indian Institute of Technology Mandi, Kamand, Himachal Pradesh, India_
 
 ---
 
