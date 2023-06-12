@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ADnD 2022 Program
-permalink: /program/
+permalink: /program_2023/
 ---
 
 # AD&D 2023 Program

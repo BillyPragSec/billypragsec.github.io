@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ADnD 2022 Program
-permalink: /archive/
+permalink: /archive_2022/
 ---
 # AD&D 2022 Archive
 
