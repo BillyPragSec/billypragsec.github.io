@@ -9,7 +9,7 @@ permalink: /program_2023/
 
 | Friday July 7th, 2023 Times in GMT+2  ||
 | ---- | ---- |
-|1:30pm| **How well does GPT phish people? An investigation involving cognitive biases and feedback** <br>Megha Sharma, Palvi Aggarwal, Kuldeep Singh, Varun Dutt |
+|1:30pm| **How well does GPT phish people? An investigation involving cognitive biases and feedback** <br>Megha Sharma, Palvi Aggarwal, Kuldeep Singh, Varun Dutt | [Slides](Megha_Sherma_ADND_Presentation.pdf) 
 |2:00pm| **Honey Infiltrator: Injecting Honeytoken Using Netfilter** <br> Daniel Reti, Tillmann Angeli, Hans Dieter Schotten | 
 |2:30pm| **Towards In-situ Psychological Profiling of Attackers Using Dynamically Generated Deception Environments – A Proof-of-Concept Proposal** <br>Jacob Quibell |
 |3:00pm| **COFFEE BREAK** |
