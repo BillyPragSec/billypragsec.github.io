@@ -103,7 +103,7 @@ The authors of accepted research papers can choose whether they want their paper
 
 Submissions must be in Portable Document Format (.pdf), preferably following the IEEE EuroS&P conference proceedings templates (<https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip>).
 
-Submissions must be provided via <https://adnd23.hotcrp.com/> and may be updated at any time until the submission deadline. During the submission process, you will be asked to supply information regarding potential conflicts of interest of the submission's authors with program committee members. Submissions (except previously accepted papers) should not indicate authors' names or affiliations (but may reference past work without indicating common authorship).
+Submissions must be provided via <https://adnd24.hotcrp.com/> and may be updated at any time until the submission deadline. During the submission process, you will be asked to supply information regarding potential conflicts of interest of the submission's authors with program committee members. Submissions (except previously accepted papers) should not indicate authors' names or affiliations (but may reference past work without indicating common authorship).
 
 <!--
 ## Submission types and format
@@ -132,20 +132,32 @@ Following notification to authors, more information will be provided regarding s
 ## Organization
 
 ### General chairs:
+* Emmanouil Vasilomanolakis, _Technical University of Denmark_
+* Jassim Happa, _Royal Holloway, University of London_
+
+### Steering Committee
 * Merve Sahin, _SAP Security Research_
 * Nick Nikiforakis, _Stony Brook University_
-* Timothy Barron, _Yale University_ 
+* Timothy Barron, _Yale University_  -->
+
+<!-- ### General chairs:
+* Merve Sahin, _SAP Security Research_
+* Nick Nikiforakis, _Stony Brook University_
+* Timothy Barron, _Yale University_  -->
 
 ### Publicity chair: 
-* Billy Tsouvalas, _Stony Brook University_
+* Shreyas Srinivasa, _Aalborg University_
 
 ### Program Committee
 * Palvi Aggarwal, _University of Texas El Paso_
-* Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research_
-* Laura Tinnel, _SRI International_
-* Emmanouil Vasilomanolakis, _Technical University of Denmark_
+* Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research, NSA Research_
 * Savvas Zannettou, _Delft University of Technology_
 * Davide Balzarotti, _EURECOM_
+* Shreyas Srinivasa, _Aalborg University_
+* Konstantinos Mersinas, _Royal Holloway, University of London_
+* Darren Hurley-Smith, _Royal Holloway, University of London_
+* Santanu Dash, _Royal Holloway, University of London_
+* Hugo Gascón, _ICAI School of Engineering_
 <br>
 <br>
 ---
