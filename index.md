@@ -138,7 +138,7 @@ Following notification to authors, more information will be provided regarding s
 ### Steering Committee
 * Merve Sahin, _SAP Security Research_
 * Nick Nikiforakis, _Stony Brook University_
-* Timothy Barron, _Yale University_  -->
+* Timothy Barron, _Yale University_  
 
 <!-- ### General chairs:
 * Merve Sahin, _SAP Security Research_
