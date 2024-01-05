@@ -46,16 +46,16 @@ disinformation). In particular, we aim to address the following questions:
 ## Call for contributions
 AD&D workshop accepts three types of contributions:
 
-* _Research Papers_: Traditional research papers with novel contributions, must be no longer than five pages, including all figures.
+* _Research Papers_: Traditional research papers with novel contributions are accepted in full, short and position paper formats. The full papers must be no longer than eight pages, short papers must be no longer than five pages and position papers must be no longer than eight pages including all figures.
 References and appendices will not count towards this limit, but reviewers are not required to read the appendices. Submissions must
-be anonymized.
+be anonymized. There will be a best full paper and short paper award. 
 
-* _Research Proposals_: Single page proposals describing research ideas. A proposal should consist of a title, abstract, and brief
+<!-- * _Research Proposals_: Single page proposals describing research ideas. A proposal should consist of a title, abstract, and brief
 motivation for and description of the idea. Proposals can describe an ongoing research in various stages, or a novel idea or challenge.
 The aim is to allow the authors to refine their ideas via the feedback from the workshop audience, to stimulate more research ideas,
 and to encourage collaborations. Submitted proposals must be no longer than one page in double column format, including all figures.
 References and appendices will not count towards this limit, but reviewers are not required to read the appendices. Proposals do not
-need to include proof-of-concept or preliminary results. Submissions must be anonymized.
+need to include proof-of-concept or preliminary results. Submissions must be anonymized. -->
 
 
 * _Presentation of previously accepted papers_: Authors of previously accepted papers (that are of interest to the workshop) can resubmit

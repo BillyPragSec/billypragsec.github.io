@@ -1,4 +1,4 @@
-title: 3rd Workshop on Active Defense and Deception (AD&D) <br> July 2024, Vienna
+title: 3rd Workshop on Active Defense and Deception (AD&D) <br> July 2024, Vienna <br> co-located with the 9th IEEE European Symposium on Security and Privacy
 url: "adnd.work"
 
 markdown: kramdown
@@ -9,6 +9,7 @@ nav:
     - {name: Accepted Papers, link: '/accepted_papers_2024/'}
     - {name: Program, link: '/program_2024/'}
     - {name: ADnD 2023 (Archive), link: '/archive_2023/'}
+    - {name: ADnD 2022 (Archive), link: '/archive_2022/'}
     
 
 
