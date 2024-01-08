@@ -44,7 +44,7 @@ disinformation). In particular, we aim to address the following questions:
 
 
 ## Call for contributions
-AD&D workshop accepts three types of contributions:
+AD&D workshop accepts two types of contributions:
 
 * _Research Papers_: Traditional research papers with novel contributions are accepted in full, short and position paper formats. The full papers must be no longer than eight pages, short papers must be no longer than five pages and position papers must be no longer than eight pages including all figures.
 References and appendices will not count towards this limit, but reviewers are not required to read the appendices. Submissions must
