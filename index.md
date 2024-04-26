@@ -151,7 +151,6 @@ Following notification to authors, more information will be provided regarding s
 ### Program Committee
 * Palvi Aggarwal, _University of Texas El Paso_
 * Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research, NSA Research_
-* Savvas Zannettou, _Delft University of Technology_
 * Davide Balzarotti, _EURECOM_
 * Shreyas Srinivasa, _Aalborg University_
 * Konstantinos Mersinas, _Royal Holloway, University of London_
