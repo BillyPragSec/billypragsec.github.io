@@ -3,7 +3,7 @@ layout: default
 title: ADnD 2024 Accepted Papers
 permalink: /accepted_papers_2024/
 ---
-# TBA
+
 
 # Research Papers
 
