@@ -95,6 +95,7 @@ The authors of accepted research papers can choose whether they want their paper
 * Submission deadline: ~~March 15, 2024~~ Extended to March 25, 2024! 
 * Acceptance Notice to Authors: May 2, 2024
 * Publication-ready Papers Submitted: May 15, 2024
+* Workshop date: July 8, 2024
 
 
 
