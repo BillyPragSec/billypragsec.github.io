@@ -6,22 +6,22 @@ permalink: /program_2024/
 
 # AD&D 2024 Program
 
-## TBA
+<!-- ## TBA -->
 
 
-<!-- | Friday July 7th, 2023 Times in GMT+2  ||
+| Friday July 8th, 2024 Times in GMT+2  ||
 | ---- | ---- |
-|1:30pm| **How well does GPT phish people? An investigation involving cognitive biases and feedback** <br>Megha Sharma, Palvi Aggarwal, Kuldeep Singh, Varun Dutt | [Slides](Megha_Sherma_ADND_Presentation.pdf) 
-|2:00pm| **Honey Infiltrator: Injecting Honeytoken Using Netfilter** <br> Daniel Reti, Tillmann Angeli, Hans Dieter Schotten | 
-|2:30pm| **Towards In-situ Psychological Profiling of Attackers Using Dynamically Generated Deception Environments – A Proof-of-Concept Proposal** <br>Jacob Quibell |
-|3:00pm| **COFFEE BREAK** |
-|3:30pm| **Decision-Making Biases in Cybersecurity: Measuring the Impact of the Sunk Cost Fallacy to Delay Attacker Behavior** <br>Chelsea Johnson |
-|4:00pm| **Learning to Defend by Attacking (and Vice-Versa): Transfer Learning in Cyber-Security Games** <br> Tyler Malloy, Cleotilde Gonzalez | [Slides](Tyler_Malloy_Presentation.pdf) 
-|4:30pm| **Oral Presentation: Incorporating Adaptive Deception into CyberBattleSim for Autonomous Defense Using a GA-Inspired Approach** <br> Ryan Gabrys|
-|5:00pm| **Oral Presentation: From Prey to Predator: A Use Case for Using Active Defense to Reshape the Asymmetrical Balance in Cyber Defense** <br> Pei-Yu Huang, Yi-Ting Huang, Yeali S. Sun, Meng Chang | [Slides](Amanda_Huang_eurosp_2023_.pdf) 
-|5:30pm| **Closing Remarks** |
+|13:30 - 14:15| **Keynote: Sebastian Garcia** |
+|14:15 - 14:45| **Modeling a Cyber Deception Practitioner's Approach** <br> Tim Pappa, _Walmart Global Tech_ | 
+|14:45 - 15:15| **Application Layer Cyber Deception without Developer Interaction** <br> Mario Kahlhofer, _Dynatrace Research_ |
+|15:00 - 15:55| **BREAK** |
+|15:35 - 16:05| **False Flavor Honeypot: Deceiving Vulnerability Scanning Tools** <br> Tillmann Angeli, _German Research Center for Artificial Intelligence GmbH_ |
+|16:05 - 16:25| **Game Theoretic Framework for Multi Domain Cyber Deception** <br> Ahmed Hemida, _DEVCOM Army Research Laboratory_ | 
+|16:25 - 16:45| **LLM in the Shell: Generative Honeypots** <br> Muris Sladić, _Czech Technical University in Prague_|
+|16:45 - 17:05| **Redundant Position-based Rogue Access Point Detection** <br> Wenjie Liu, _KTH Royal Institute of Technology_ | 
+|17:05| **End Closing remarks + Best (short/long) paper award** |
 
 <br>
-<br> -->
+<br>
 
   
