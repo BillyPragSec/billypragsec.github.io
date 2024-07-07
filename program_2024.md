@@ -11,7 +11,7 @@ permalink: /program_2024/
 
 | Friday July 8th, 2024 Times in GMT+2  ||
 | ---- | ---- |
-|13:30 - 14:15| **Keynote: Sebastian Garcia** |
+|13:30 - 14:15| **Keynote: Sebastian Garcia** Topic: **Engage your enemy**|
 |14:15 - 14:45| **Modeling a Cyber Deception Practitioner's Approach** <br> Tim Pappa, _Walmart Global Tech_ | 
 |14:45 - 15:15| **Application Layer Cyber Deception without Developer Interaction** <br> Mario Kahlhofer, _Dynatrace Research_ |
 |15:00 - 15:55| **BREAK** |
