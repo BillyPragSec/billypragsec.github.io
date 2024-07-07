@@ -11,7 +11,7 @@ permalink: /program_2024/
 
 | Friday July 8th, 2024 Times in GMT+2  ||
 | ---- | ---- |
-|13:30 - 14:15| **Keynote: Sebastian Garcia** <br> Topic: **Engage your enemy**|
+|13:30 - 14:15| **Keynote: Sebastian Garcia** <br> Topic: **Engage your enemy** <br> Technology advanced enough to make honeypots and deception useful again, increasing the role of active defense in protecting our organizations. While still learning how to design, administer, monitor, and decommission our deception, there is an old aspect of defense that should be revised: engaging. Once the attacker is inside our organization, it may be a good idea to consider attacking them. This is a tough decision with the fear of false positives, but that can pay off if done correctly. Don't let attackers wander inside your network without consequences|
 |14:15 - 14:45| **Modeling a Cyber Deception Practitioner's Approach** <br> Tim Pappa, _Walmart Global Tech_ | 
 |14:45 - 15:15| **Application Layer Cyber Deception without Developer Interaction** <br> Mario Kahlhofer, _Dynatrace Research_ |
 |15:00 - 15:55| **BREAK** |
