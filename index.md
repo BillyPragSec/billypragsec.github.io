@@ -8,12 +8,7 @@ The AD&D workshop aims at promoting Active Defense as an effective extra securit
 research forward and of encouraging its adoption by the industry. In particular, as the 'assume breach' mindset becomes the
 norm, Active Defenses are becoming one of the most promising solutions.
 
-Traditionally, information security distinguishes the roles of the attacker and the defender. The attacker is active: he gathers
-information, explores the system, finds vulnerabilities, and executes exploits; while the defender is passive: he collects and
-monitors the system logs and tries to detect malicious behavior via attack signatures. The attacker knows very well who the
-victim is, while the defender often has limited information about the attackers, their methods, and their real motivations.
-This imbalance makes more difficult to defend computer systems and helps the attackers to remain undetected for long
-periods of time (today it takes on average 40+ days to reveal an attack [*]).
+Traditionally, information security distinguishes the roles of the attacker and the defender. The attacker is active: he gathers information, explores the system, finds vulnerabilities, and executes exploits; while the defender is passive: he collects and monitors the system logs and tries to detect malicious behavior via attack signatures. The attacker knows very well who the victim is, while the defender often has limited information about the attackers, their methods, and their real motivations. This imbalance makes it more difficult to defend computer systems and helps the attackers to remain undetected for long periods of time.
 
 **Active defense** can mitigate these problems by finding ways to proactively engage with the attackers during the early stages
 of the attack lifecycle. This can be implemented in various ways, such as by mutating/diversifying the system (i.e, Moving
@@ -24,8 +19,7 @@ destructive attacks (such as supply-chain attacks and phishing campaigns) are co
 has the potential to detect such attacks with rather simple techniques.
 
 Despite the high accuracy promised by these techniques, active defense has not been widely adopted in information security.
-Possible reasons include the fact that it requires a multidisciplinary approach and a good understanding of the human aspectand the psychology of the attackers, that its effectiveness is hard to quantify, and that it may be difficult to integrate active
-defense at different layers in the target system.
+Possible reasons include the fact that it requires a multidisciplinary approach and a good understanding of the human aspectand the psychology of the attackers, that its effectiveness is hard to quantify, and that it may be difficult to integrate active defense at different layers in the target system.
 
 Thus, this workshop aims to bring together researchers from a variety of fields such as psychology and cognitive science,
 with experts in different forms of deception for defense, but also in offense techniques (such as social engineering and
@@ -40,15 +34,16 @@ disinformation). In particular, we aim to address the following questions:
 - What are the myths vs. real world experiences on active defense?
 - How can we move forward to increase the adoption of active defense?
 
-[*] M-Trends 2021 FireEye Mandiant Services Special Report, <https://www.mandiant.com/media/11031/download>
-
 
 ## Call for contributions
-AD&D workshop accepts two types of contributions:
+AD&D workshop accepts four types of contributions:
 
-* _Research Papers_: Traditional research papers with novel contributions are accepted in full, short and position paper formats. The full papers must be no longer than eight pages, short papers must be no longer than five pages and position papers must be no longer than eight pages including all figures.
-References and appendices will not count towards this limit, but reviewers are not required to read the appendices. Submissions must
-be anonymized. There will be a best full paper and short paper award. 
+* _Research Papers_: Traditional research papers with novel contributions are accepted in **full** and **short** paper formats. The full papers must be no longer than eight pages, short papers must be no longer than five pages, including all figures. References and appendices will not count towards this limit, but reviewers are not required to read the appendices. All submissions must be anonymized. 
+
+* _Position Papers_: Position papers should present novel, preliminary research ideas or perspectives that aim to spark discussion and exploration within the community. Submissions must not exceed eight pages and should include the text "Position Paper:" at the beginning of the title. References and appendices do not count toward the page limit; however, reviewers are not obligated to read the appendices. All submissions must be anonymized.
+ 
+
+ * _Experience Papers_: Experience papers should share novel insights, findings, or lessons learned from real-world applications or deployments in the context of active defense. Submissions must not exceed eight pages and should include the text "Experience Paper:" at the beginning of the title. References and appendices do not count toward the page limit; however, reviewers are not required to read the appendices. All submissions must be anonymized.
 
 <!-- * _Research Proposals_: Single page proposals describing research ideas. A proposal should consist of a title, abstract, and brief
 motivation for and description of the idea. Proposals can describe an ongoing research in various stages, or a novel idea or challenge.
@@ -58,12 +53,9 @@ References and appendices will not count towards this limit, but reviewers are n
 need to include proof-of-concept or preliminary results. Submissions must be anonymized. -->
 
 
-* _Presentation of previously accepted papers_: Authors of previously accepted papers (that are of interest to the workshop) can resubmit
-their papers to be able to present them in the workshop. For such contributions, there is no page limitation on the submission, and
-anonymization is not necessary. 
+* _Presentation of previously accepted papers_: Authors of previously accepted papers (that are of interest to the workshop) can resubmit their papers to be able to present them in the workshop. For such contributions, there is no page limitation on the submission, and anonymization is not necessary.
 
-The Program Committee will evaluate the submissions based on relevancy, impact, and the potential to spark discussion at the workshop.
-Interdisciplinary work is appreciated and encouraged.
+The program committee will evaluate the submissions based on relevancy, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
 ### Areas of Interest
 The topics of interest include (but are not limited to):
@@ -79,9 +71,7 @@ The topics of interest include (but are not limited to):
 * Attackers' reasoning, decision making and behavior patterns
 * Cognitive approaches that attackers can get prepared against
 * Deceiving humans vs. deceiving computers: How cognitive biases of attackers can be helped/changed by computers?
-* Deception for offense: Social engineering, phishing, disinformation, dark patterns in UI/UX and other manipulation techniques
-* Adapting offensive deceptive techniques to defense
-* Interdisciplinary research methods to improve active defense via attackers' human factors
+
 
 __Note that we exclude the concepts of preemptive attacks, hacking back and counter-attacks.__
 The authors of accepted research papers can choose whether they want their papers to be part of the official proceedings.
@@ -92,10 +82,10 @@ The authors of accepted research papers can choose whether they want their paper
 * Notification: April 8, 2022
 * Workshop: June 10, 2022
 -->
-* Submission deadline: ~~March 15, 2024~~ Extended to March 25, 2024! 
-* Acceptance Notice to Authors: May 2, 2024
-* Publication-ready Papers Submitted: May 15, 2024
-* Workshop date: July 8, 2024
+* Submission deadline: February 20, 2025
+* Acceptance Notice to Authors: March 24, 2025
+* Publication-ready Papers Submitted: April 7, 2025
+* Workshop date: July 4, 2025
 
 
 
@@ -104,7 +94,7 @@ The authors of accepted research papers can choose whether they want their paper
 
 Submissions must be in Portable Document Format (.pdf), preferably following the IEEE EuroS&P conference proceedings templates (<https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip>).
 
-Submissions must be provided via <https://adnd24.hotcrp.com/> and may be updated at any time until the submission deadline. During the submission process, you will be asked to supply information regarding potential conflicts of interest of the submission's authors with program committee members. Submissions (except previously accepted papers) should not indicate authors' names or affiliations (but may reference past work without indicating common authorship).
+Submissions must be provided via <https://adnd25.hotcrp.com/> and may be updated at any time until the submission deadline. During the submission process, you will be asked to supply information regarding potential conflicts of interest of the submission's authors with program committee members. Submissions (except previously accepted papers) should not indicate authors' names or affiliations (but may reference past work without indicating common authorship).
 
 <!--
 ## Submission types and format
@@ -133,13 +123,13 @@ Following notification to authors, more information will be provided regarding s
 ## Organization
 
 ### General chairs:
-* Emmanouil Vasilomanolakis, _Technical University of Denmark_
-* Jassim Happa, _Royal Holloway, University of London_
+* Georgios Portokalidis, _IMDEA Software_
+* Merve Sahin, _SAP_
 
-### Steering Committee
+<!-- ### Steering Committee
 * Merve Sahin, _SAP Security Research_
 * Nick Nikiforakis, _Stony Brook University_
-* Timothy Barron, _Yale University_  
+* Timothy Barron, _Yale University_   -->
 
 <!-- ### General chairs:
 * Merve Sahin, _SAP Security Research_
@@ -147,17 +137,19 @@ Following notification to authors, more information will be provided regarding s
 * Timothy Barron, _Yale University_  -->
 
 ### Publicity chair: 
-* Shreyas Srinivasa, _Aalborg University_
+* Shreyas Srinivasa, _TERMA A/S DENMARK_
 
 ### Program Committee
-* Palvi Aggarwal, _University of Texas El Paso_
-* Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research, NSA Research_
-* Davide Balzarotti, _EURECOM_
-* Shreyas Srinivasa, _Aalborg University_
-* Konstantinos Mersinas, _Royal Holloway, University of London_
-* Darren Hurley-Smith, _Royal Holloway, University of London_
-* Santanu Dash, _Royal Holloway, University of London_
-* Hugo Gascón, _ICAI School of Engineering_
+<!-- * Palvi Aggarwal, _University of Texas El Paso_ -->
+<!-- * Kimberly Ferguson-Walter, _Laboratory for Advanced Cybersecurity Research, NSA Research_ -->
+* Emmanouil Vasilomanolakis, _Technical University of Denmark_
+* Shreyas Srinivasa, _TERMA A/S Denmark, Selene CTI_
+* Hugo Gascón, _WIIT AG_
+* Timothy Barron, _Yale University_
+* Billy Tsouvalas, _Stony Brook University_
+* Dimitrios Georgoulias, _Aalborg University, Selene CTI_
+* Jassim Happa, _Royal Holloway, University of London_
+
 <br>
 <br>
 ---
