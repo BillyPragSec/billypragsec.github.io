@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ADnD 2024 Program
-permalink: /program_2024/
+title: ADnD 2025 Program
+permalink: /program_2025/
 ---
 
 # AD&D 2025 Program
