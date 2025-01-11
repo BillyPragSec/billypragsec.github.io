@@ -71,6 +71,10 @@ The topics of interest include (but are not limited to):
 * Attackers' reasoning, decision making and behavior patterns
 * Cognitive approaches that attackers can get prepared against
 * Deceiving humans vs. deceiving computers: How cognitive biases of attackers can be helped/changed by computers?
+* Deception for offense: Social engineering, phishing, disinformation, dark patterns in UI/UX and other manipulation techniques
+* Adapting offensive deceptive techniques to defense
+* Interdisciplinary research methods to improve active defense via attackers’ human factors
+
 
 
 __Note that we exclude the concepts of preemptive attacks, hacking back and counter-attacks.__
