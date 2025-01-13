@@ -75,6 +75,9 @@ The topics of interest include (but are not limited to):
 * Adapting offensive deceptive techniques to defense
 * Interdisciplinary research methods to improve active defense via attackers’ human factors
 
+## Policy against the use of Generative AI
+
+In principle, generative AI is not allowed for submissions except for language polishing purposes. In the latter case the authors should acknowledge the usage of generative AI. If a submission is suspected to use Generative AI tools, the authors will be contacted and the paper might risk a desk rejection. Furthermore, we want to inform the authors that usage of AI is not allowed for the review process for the TPC.
 
 
 __Note that we exclude the concepts of preemptive attacks, hacking back and counter-attacks.__
