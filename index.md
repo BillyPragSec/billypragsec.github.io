@@ -99,7 +99,7 @@ In principle, generative AI is not allowed for submissions except for language p
 
 ## Submission Guidelines
 
-Submissions must be in Portable Document Format (.pdf), preferably following the IEEE EuroS&P conference proceedings templates (<https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip>).
+Submissions must be in Portable Document Format (.pdf), preferably following the IEEE EuroS&P conference proceedings templates (<https://eurosp2025.ieee-security.org/eurosp-template.zip>).
 
 Submissions must be provided via <https://adnd25.hotcrp.com/> and may be updated at any time until the submission deadline. During the submission process, you will be asked to supply information regarding potential conflicts of interest of the submission's authors with program committee members. Submissions (except previously accepted papers) should not indicate authors' names or affiliations (but may reference past work without indicating common authorship).
 
@@ -130,7 +130,7 @@ Following notification to authors, more information will be provided regarding s
 ## Organization
 
 ### General chairs:
-* Georgios Portokalidis, _IMDEA Software_
+* Georgios Portokalidis, _IMDEA Software Institute_
 * Merve Sahin, _SAP_
 
 <!-- ### Steering Committee
