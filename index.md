@@ -156,10 +156,10 @@ Following notification to authors, more information will be provided regarding s
 * Billy Tsouvalas, _Stony Brook University_
 * Dimitrios Georgoulias, _Aalborg University, Selene CTI_
 * Jassim Happa, _Royal Holloway, University of London_
-* Kevin Hamlen, UT Dallas
-* Stefan Rass, Johannes Kepler University Linz, LIT Secure and Correct Systems Lab
-* Jin-Hee Cho, Virginia Tech
-* Davide Balzarotti, EURECOM
+* Kevin Hamlen, _UT Dallas_
+* Stefan Rass, _Johannes Kepler University Linz, LIT Secure and Correct Systems Lab_
+* Jin-Hee Cho, _Virginia Tech_
+* Davide Balzarotti, _EURECOM_
 
 
 <br>
