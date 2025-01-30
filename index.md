@@ -160,6 +160,7 @@ Following notification to authors, more information will be provided regarding s
 * Stefan Rass, _Johannes Kepler University Linz, LIT Secure and Correct Systems Lab_
 * Jin-Hee Cho, _Virginia Tech_
 * Davide Balzarotti, _EURECOM_
+* Sebastian Garcia, _Czech Technical University in Prague_
 
 
 <br>
