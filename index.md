@@ -89,7 +89,7 @@ In principle, generative AI is not allowed for submissions except for language p
 * Notification: April 8, 2022
 * Workshop: June 10, 2022
 -->
-* Submission deadline: ~~February 20, 2025~~ March 3, 2025
+* Submission deadline: ~~February 20, 2025~~ ##Extended to March 3, 2025
 * Acceptance Notice to Authors: March 24, 2025
 * Publication-ready Papers Submitted: April 7, 2025
 * Workshop date: July 4, 2025
