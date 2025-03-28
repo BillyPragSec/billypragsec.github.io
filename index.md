@@ -161,7 +161,7 @@ Following notification to authors, more information will be provided regarding s
 * Jin-Hee Cho, _Virginia Tech_
 * Davide Balzarotti, _EURECOM_
 * Sebastian Garcia, _Czech Technical University in Prague_
-
+* Nick Nikiforakis, _Stony Brook University_
 
 <br>
 <br>
