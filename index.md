@@ -85,7 +85,7 @@ One author of each accepted contribution is expected to present the work at the 
 More information regarding speaking times, proceedings, and camera-ready requirements will be provided following notification to authors.
 
 ## Organization
-The 2026 organizing committee and program committee will be announced soon.
+The 2026 program committee will be announced soon.
 
 ### General chairs
 * Denis Donadel, University of Verona, Italy
