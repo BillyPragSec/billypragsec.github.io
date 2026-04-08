@@ -206,27 +206,29 @@ p {
     padding: 8px;
 }
 
+.support-logo-frame img,
 .support-logo {
     display: block;
     width: auto !important;
-    max-width: min(100%, 220px);
-    max-height: 78px;
-    height: auto;
+    max-width: 220px !important;
+    max-height: 78px !important;
+    height: auto !important;
+    object-fit: contain;
     margin: 0 auto;
 }
 
 .support-logo-dimes {
-    max-width: min(100%, 240px);
-    max-height: 82px;
+    max-width: 240px !important;
+    max-height: 82px !important;
 }
 
 .support-logo-univr {
-    max-width: min(100%, 210px);
-    max-height: 72px;
+    max-width: 210px !important;
+    max-height: 72px !important;
 }
 
 .support-logo-honeynet {
-    max-height: 86px;
+    max-height: 86px !important;
 }
 
 .support-name {
@@ -236,4 +238,3 @@ p {
     font-weight: 600;
     color: #16363c;
 }
-

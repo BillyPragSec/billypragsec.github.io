@@ -53,7 +53,7 @@
             }
         }
     }
-    img {
+    img:not(.support-logo) {
         text-align: center;
         width: 100%;
     }

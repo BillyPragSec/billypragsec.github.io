@@ -63,16 +63,16 @@ __Note that we exclude the concepts of preemptive attacks, hacking back, and cou
 In principle, generative AI is not allowed for submissions except for language polishing purposes. In the latter case, authors should acknowledge the usage of generative AI. If a submission is suspected to use generative AI tools, the authors will be contacted and the paper may risk a desk rejection. Furthermore, usage of AI is not allowed for the review process by the program committee.
 
 ## Important Dates
-* Submission deadline (tentative): 10 June 2026
-* Acceptance notice to authors: 31 July 2026
-* Publication-ready papers submitted: 31 August 2026
+* Submission deadline (tentative): June 10, 2026
+* Acceptance notice to authors: July 31, 2026
+* Publication-ready papers submitted: August 31, 2026
 * Workshop date: September 18, 2026
 
 ## Submission Guidelines
 Submitted papers must comply with the LNCS template at the time of submission. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. 
 
-Submissions must be uploaded to the following EasyChair website: 
-https://easychair.org/conferences/?conf=adnd2026
+Submissions must be uploaded to the following EasyChair website:
+[https://easychair.org/conferences/?conf=adnd2026](https://easychair.org/conferences/?conf=adnd2026)
 
 Only PDF files will be accepted. Submissions are double-blind: no author names or affiliations may appear on the title page, and papers should avoid revealing authors’ identities in the text. Submissions not meeting these guidelines risk rejection without consideration of their merits. 
 
