@@ -105,12 +105,12 @@ The 2026 organizing committee and program committee will be announced soon.
     </div>
     <p class="support-name">DIMES, University of Calabria</p>
   </a>
-  <a class="support-card support-card-link" href="https://www.univr.it" target="_blank" rel="noopener noreferrer">
+  <!-- <a class="support-card support-card-link" href="https://www.univr.it" target="_blank" rel="noopener noreferrer">
     <div class="support-logo-frame">
       <img class="support-logo support-logo-univr" src="/images/support-univr.png" alt="University of Verona logo">
     </div>
     <p class="support-name">University of Verona</p>
-  </a>
+  </a> -->
   <a class="support-card support-card-link" href="https://www.honeynet.org" target="_blank" rel="noopener noreferrer">
     <div class="support-logo-frame">
       <img class="support-logo support-logo-honeynet" src="/images/support-honeynet.png" alt="The Honeynet Project logo">
