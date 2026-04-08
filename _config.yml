@@ -1,4 +1,4 @@
-title: 4th Workshop on Active Defense and Deception (AD&D) <br> July 4th 2025, Venice <br> co-located with the 10th IEEE European Symposium on Security and Privacy
+title: 5th Workshop on Active Defense and Deception (AD&D) <br> September 18th 2026, Rome, Italy <br> co-located with the 31st European Symposium on Research in Computer Security (ESORICS) 2026
 url: "adnd.work"
 
 markdown: kramdown
@@ -6,8 +6,9 @@ markdown: kramdown
 nav:
     - {name: CFP, link: '/index.html#call-for-contributions'}
     - {name: Submission, link: '/index.html#submission-guidelines'}
-    - {name: Accepted Papers, link: '/accepted_papers_2025/'}
-    - {name: Program, link: '/program_2025/'}
+    - {name: Accepted Papers, link: '/accepted_papers_2026/'}
+    - {name: Program, link: '/program_2026/'}
+    - {name: ADnD 2025 (Archive), link: '/archive_2025/'}
     - {name: ADnD 2024 (Archive), link: '/archive_2024/'}
     - {name: ADnD 2023 (Archive), link: '/archive_2023/'}
     - {name: ADnD 2022 (Archive), link: '/archive_2022/'}
@@ -19,4 +20,3 @@ tracking_id: #
 sass:
     style: compressed
     sass_dir: _sass
-
