@@ -6,36 +6,27 @@ description: Workshop on Active Defense and Deception (AD&D)
 ## Workshop on Active Defense and Deception
 The 5th Workshop on Active Defense and Deception (AD&D) will take place on September 18, 2026, in Rome, Italy, co-located with the 31st European Symposium on Research in Computer Security (ESORICS) 2026.
 
-The AD&D workshop aims at promoting Active Defense as an effective extra security layer, with the goals of moving the research forward and of encouraging its adoption by the industry. In particular, as the "assume breach" mindset becomes the norm, Active Defenses are becoming one of the most promising solutions.
+The AD&D workshop intends to promote **Active Defense** (AD) as an additional layer of protection against the imbalance of active attackers and passive defenders. In particular, the "assume breach" mentality is becoming the new normal, proactively interacting with adversaries using deception, system modification and run-time defensive mechanisms can offer a very viable method for detecting sophisticated multi-stage attacks. Although this methodology has great promise, AD is currently being underutilized because there are several barriers preventing wider industry acceptance such as: developing methods for measuring the value and effectiveness of AD, implementing AD in current systems, and understanding what motivates attacker behavior.
 
-Traditionally, information security distinguishes the roles of the attacker and the defender. The attacker is active: gathering information, exploring the system, finding vulnerabilities, and executing exploits; while the defender is passive: collecting and monitoring system logs and trying to detect malicious behavior via attack signatures. The attacker knows very well who the victim is, while the defender often has limited information about the attackers, their methods, and their real motivations. This imbalance makes it more difficult to defend computer systems and helps attackers remain undetected for long periods of time.
+Therefore, the purpose of the AD&D workshop is to bring together multiple disciplines including Information Security, Cognitive Science and Psychology to help develop solutions to overcome some of the above mentioned barriers and increase adoption. More broadly, the Workshop wants to provide a forum to discuss issues associated with evaluating AD, influencing attacker decisions making and designing deceptions which have long-term viability with the ultimate goal of moving AD from theoretical concepts into practical applications.
 
-**Active defense** can mitigate these problems by finding ways to proactively engage with attackers during the early stages of the attack lifecycle. This can be implemented in various ways, such as by mutating or diversifying the system (i.e., Moving Target Defense), adapting to attacks in real time (Adaptive Defense), and introducing runtime defenses (e.g., RASP). One important aspect of active defense is **deception**, where the defender can place enticing traps around the system, mimic vulnerabilities, or obfuscate system elements to deceive, confuse, and mislead possible attackers. Since some of the most destructive attacks, such as supply-chain attacks and phishing campaigns, are composed of multiple stages, active defense has the potential to detect such attacks with relatively simple techniques.
+## Important Dates
+* Submission deadline (tentative): June 10, 2026
+* Acceptance notice to authors: July 15, 2026
+* Publication-ready papers submitted: July 31, 2026
+* Workshop date: September 18, 2026
 
-Despite the high accuracy promised by these techniques, active defense has not been widely adopted in information security. Possible reasons include the need for a multidisciplinary approach, the importance of understanding the human aspect and the psychology of attackers, the difficulty of quantifying effectiveness, and the challenge of integrating active defense at different layers in the target system.
-
-Thus, this workshop aims to bring together researchers from a variety of fields such as psychology and cognitive science, with experts in different forms of deception for defense, but also in offense techniques such as social engineering and disinformation. In particular, we aim to address the following questions:
-
-- How can we evaluate and demonstrate the effectiveness of active defense?
-- What is the impact of attackers' deception awareness?
-- How can we impact the attackers' decision making process to make them waste more resources?
-- Is it possible to reuse offensive deception techniques against attackers?
-- How can we optimize the enticement of deceptive elements without making them too obvious?
-- How can deceptive elements be updated to ensure long-term effectiveness?
-- What are the myths vs. real world experiences on active defense?
-- How can we move forward to increase the adoption of active defense?
 
 ## Call for contributions
 AD&D accepts three types of contributions:
 
-* _Research Papers_: Traditional research papers with novel contributions are accepted in **full** and **short** paper formats. The full papers must be no longer than 16 pages, short papers must be no longer than 10 pages, including all figures. References and appendices will not count towards this limit, but reviewers are not required to read the appendices. 
+- Research Papers: Traditional research papers with novel contributions are accepted in full and short paper formats.
+- Position Papers: Position papers should present novel, preliminary research ideas or perspectives that aim to spark discussion and exploration within the community, and should include the text "Position Paper:" at the beginning of the title.
+- Experience Papers: Experience papers should share novel insights, findings, or lessons learned from real-world applications or deployments in the context of active defense, and should include the text "Experience Paper:" at the beginning of the title.
 
-* _Position Papers_: Position papers should present novel, preliminary research ideas or perspectives that aim to spark discussion and exploration within the community. Submissions must not exceed 10 pages and should include the text "Position Paper:" at the beginning of the title. References and appendices do not count toward the page limit; however, reviewers are not obligated to read the appendices.
+The full research papers must be no longer than 16 pages, while short research papers, position papers, and experience papers must be no longer than 10 pages. Page limits including all figures but exclude bibliography and well-marked appendices, which however cannot exceed 4 pages. Note that reviewers are not required to read the appendices.
+All submissions must be anonymized. The program committee will evaluate submissions based on relevance, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
-* _Experience Papers_: Experience papers should share novel insights, findings, or lessons learned from real-world applications or deployments in the context of active defense. Submissions must not exceed eight pages and should include the text "Experience Paper:" at the beginning of the title. References and appendices do not count toward the page limit; however, reviewers are not required to read the appendices. 
-
-All submissions must be anonymized.
-The program committee will evaluate submissions based on relevance, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
 ### Areas of Interest
 Topics of interest include, but are not limited to:
@@ -62,11 +53,6 @@ __Note that we exclude the concepts of preemptive attacks, hacking back, and cou
 ## Policy Against the Use of Generative AI
 In principle, generative AI is not allowed for submissions except for language polishing purposes. In the latter case, authors should acknowledge the usage of generative AI. If a submission is suspected to use generative AI tools, the authors will be contacted and the paper may risk a desk rejection. Furthermore, usage of AI is not allowed for the review process by the program committee.
 
-## Important Dates
-* Submission deadline (tentative): June 10, 2026
-* Acceptance notice to authors: July 15, 2026
-* Publication-ready papers submitted: July 31, 2026
-* Workshop date: September 18, 2026
 
 ## Submission Guidelines
 Submitted papers must comply with the LNCS template at the time of submission. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. 
@@ -78,11 +64,16 @@ Only PDF files will be accepted. Submissions are double-blind: no author names o
 
 Authors of accepted papers must agree with Springer LNCS copyright and are requested to ensure that their papers are presented at the workshop, and to complete the registration for workshop attendance.
 
-
 ## Workshop Format
 One author of each accepted contribution is expected to present the work at the workshop. The format is expected to include traditional conference-style presentations followed by questions and feedback from the audience. Interactive and engaging presentations are welcomed.
 
 More information regarding speaking times, proceedings, and camera-ready requirements will be provided following notification to authors.
+
+## Student Scholarship by The Honeynet Project
+We don't think a limited budget should keep students from attending the Workshop on Active Defense and Deception. To help make the event more accessible, The Honeynet Project is offering a scholarship for selected university students.
+ 
+Scholarship recipients will have their workshop registration covered by THP, allowing them to attend the AD&D workshop. The scholarship is open to undergraduate and graduate university students. To apply, please complete the [https://forms.gle/VEaf3AuUQY3Z4Wpj8](application form). 
+**We particularly encourage students from underrepresented groups to apply.**
 
 ## Organization
 The 2026 program committee will be announced soon.
@@ -94,8 +85,35 @@ The 2026 program committee will be announced soon.
 ### Publicity chair
 * Natalia Stakhanova, University of Saskatchewan, Canada
 
+### Steering Committee
+* Georgios Portokalidis, IMDEA Software
+* Merve Sahin, SAP Security Research
+* Nick Nikiforakis, Stony Brook University
+* Emmanouil Vasilomanolakis, Technical University of Denmark
+* Mauro Conti, University of Padua
+* Andrea Pugliese, University of Calabria
+
 ### Program Committee
-* TBA
+* Merve Sahin, SAP Security Research
+* Emmanouil Vasilomanolakis, Technical University of Denmark
+* Massimo Merro, University of Verona
+* Nicola Zannone, Eindhoven University of Technology
+* Alessio Merlo, University School of Advanced Defense Studies
+* Efrén López-Morales, New Mexico State University
+* Roberto Doriguzzi Corin, Fondazione Bruno Kessler (FBK)
+* Luis E. Salazar, University of California, Santa Cruz
+* Alessandro Cantelli-Forti, Lab RaSS National Laboratory - CNIT
+* Giacomo Longo, University School of Advanced Defense Studies
+* Timothy Barron, Yale University
+* Alessandro Brighente, University of Padua
+* Billy Tsouvalas, Stony Brook University
+* Shreyas Srinivasa, Terma A/S
+* Carmelo Felicetti, University of Calabria
+* Vincenzo De Angelis, University of Calabria
+* Sara Lazzaro, University of Calabria
+* Jassim Happa, Royal Holloway, University of London
+* Arul Sagayam, Bloomberg
+* Stefan Rass, Johannes Kepler University Linz
 
 ## Supported by
 <div class="support-grid">
@@ -105,12 +123,12 @@ The 2026 program committee will be announced soon.
     </div>
     <p class="support-name">DIMES, University of Calabria</p>
   </a>
-  <!-- <a class="support-card support-card-link" href="https://www.univr.it" target="_blank" rel="noopener noreferrer">
+   <a class="support-card support-card-link" href="https://www.fbk.eu" target="_blank" rel="noopener noreferrer">
     <div class="support-logo-frame">
-      <img class="support-logo support-logo-univr" src="/images/support-univr.png" alt="University of Verona logo">
+      <img class="support-logo support-logo-fbk" src="/images/support-fbk.png" alt="Fondazione Bruno Kessler logo">
     </div>
-    <p class="support-name">University of Verona</p>
-  </a> -->
+    <p class="support-name">Fondazione Bruno Kessler</p>
+  </a>
   <a class="support-card support-card-link" href="https://www.honeynet.org" target="_blank" rel="noopener noreferrer">
     <div class="support-logo-frame">
       <img class="support-logo support-logo-honeynet" src="/images/support-honeynet.png" alt="The Honeynet Project logo">
