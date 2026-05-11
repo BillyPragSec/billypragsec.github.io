@@ -72,7 +72,7 @@ More information regarding speaking times, proceedings, and camera-ready require
 ## Student Scholarship by The Honeynet Project
 We don't think a limited budget should keep students from attending the Workshop on Active Defense and Deception. To help make the event more accessible, The Honeynet Project is offering a scholarship for selected university students.
  
-Scholarship recipients will have their workshop registration covered by THP, allowing them to attend the AD&D workshop. The scholarship is open to undergraduate and graduate university students. To apply, please complete the [https://forms.gle/VEaf3AuUQY3Z4Wpj8](application form). 
+Scholarship recipients will have their workshop registration covered by THP, allowing them to attend the AD&D workshop. The scholarship is open to undergraduate and graduate university students. To apply, please complete the [application form.](https://forms.gle/VEaf3AuUQY3Z4Wpj8). 
 **We particularly encourage students from underrepresented groups to apply.**
 
 ## Organization
