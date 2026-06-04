@@ -11,9 +11,9 @@ The AD&D workshop intends to promote **Active Defense** (AD) as an additional la
 Therefore, the purpose of the AD&D workshop is to bring together multiple disciplines including Information Security, Cognitive Science and Psychology to help develop solutions to overcome some of the above mentioned barriers and increase adoption. More broadly, the Workshop wants to provide a forum to discuss issues associated with evaluating AD, influencing attacker decisions making and designing deceptions which have long-term viability with the ultimate goal of moving AD from theoretical concepts into practical applications.
 
 ## Important Dates
-* Submission deadline (tentative): June 10, 2026
-* Acceptance notice to authors: July 15, 2026
-* Publication-ready papers submitted: July 31, 2026
+* Submission deadline (extended): June 25, 2026
+* Acceptance notice to authors: July 21, 2026
+* Publication-ready papers submitted: August 1, 2026
 * Workshop date: September 18, 2026
 
 
