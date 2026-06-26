@@ -110,10 +110,13 @@ The 2026 program committee will be announced soon.
 * Shreyas Srinivasa, Terma A/S
 * Carmelo Felicetti, University of Calabria
 * Vincenzo De Angelis, University of Calabria
-* Sara Lazzaro, University of Calabria
+* Sara Lazzaro, Università Mediterranea di Reggio Calabria
 * Jassim Happa, Royal Holloway, University of London
 * Arul Sagayam, Bloomberg
 * Stefan Rass, Johannes Kepler University Linz
+* Stash Kempinski, Eindhoven University of Technology
+* Isabella Marasco, Alma Mater Studiorum - University of Bologna
+* Giuseppe Salerno, University of Calabria
 
 ## Supported by
 <div class="support-grid">
