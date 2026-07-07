@@ -117,6 +117,9 @@ The 2026 program committee will be announced soon.
 * Stash Kempinski, Eindhoven University of Technology
 * Isabella Marasco, Alma Mater Studiorum - University of Bologna
 * Giuseppe Salerno, University of Calabria
+* Martin Rosso, University of Padua
+* Emad Efatinasab, University of Padua
+* Hosam Alamleh, University of North Carolina Wilmington
 
 ## Supported by
 <div class="support-grid">
