@@ -79,8 +79,8 @@ Scholarship recipients will have their workshop registration covered by THP, all
 The 2026 program committee will be announced soon.
 
 ### General chairs
-* Denis Donadel, University of Verona, Italy
-* Francesco Lupia, University of Calabria, Italy
+* Denis Donadel, Fondazione Bruno Kessler (FBK)
+* Francesco Lupia, University of Calabria
 
 ### Publicity chair
 * Natalia Stakhanova, University of Saskatchewan, Canada
