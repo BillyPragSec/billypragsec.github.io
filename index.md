@@ -101,7 +101,6 @@ The 2026 program committee will be announced soon.
 * Alessio Merlo, University School of Advanced Defense Studies
 * Efrén López-Morales, New Mexico State University
 * Roberto Doriguzzi Corin, Fondazione Bruno Kessler (FBK)
-* Luis E. Salazar, University of California, Santa Cruz
 * Alessandro Cantelli-Forti, Lab RaSS National Laboratory - CNIT
 * Giacomo Longo, University School of Advanced Defense Studies
 * Timothy Barron, Yale University
@@ -111,7 +110,6 @@ The 2026 program committee will be announced soon.
 * Carmelo Felicetti, University of Calabria
 * Vincenzo De Angelis, University of Calabria
 * Sara Lazzaro, Università Mediterranea di Reggio Calabria
-* Jassim Happa, Royal Holloway, University of London
 * Arul Sagayam, Bloomberg
 * Stefan Rass, Johannes Kepler University Linz
 * Stash Kempinski, Eindhoven University of Technology
