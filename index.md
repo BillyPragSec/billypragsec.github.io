@@ -13,7 +13,7 @@ Therefore, the purpose of the AD&D workshop is to bring together multiple discip
 ## Important Dates
 * Submission deadline (extended): June 25, 2026
 * Acceptance notice to authors: July 21, 2026
-* Publication-ready papers submitted: August 1, 2026
+* Publication-ready papers submitted: August 22, 2026
 * Workshop date: September 18, 2026
 
 
