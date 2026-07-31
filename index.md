@@ -74,7 +74,7 @@ We don't think a limited budget should keep students from attending the Workshop
  
 Scholarship recipients will have their workshop registration covered by THP, allowing them to attend the AD&D workshop. The scholarship is open to undergraduate and graduate university students. To apply, please complete the [application form.](https://forms.gle/VEaf3AuUQY3Z4Wpj8). 
 
-- Submission deadline: August 15, 2026, 23:59:59 (AoE)
+- Submission deadline: August 25, 2026, 23:59:59 (AoE)
 
 - Notification of Decision: August 30, 2026
 
