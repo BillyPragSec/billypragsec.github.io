@@ -12,7 +12,7 @@ permalink: /program_2026/
 
 | Time        | Session |
 |------------:|--------|
-| 09:00–09:15 | **Welcome** |
+| 09:00–09:15 | **Welcome and Opening Remarks** |
 | 09:15–09:35 | **Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense** – *Alessandro Cantelli-Forti, Isabella Marasco, Hosam Alamleh, Giada Boschi, Michele Colajanni* |
 | 09:35–09:55 | **Honey for the Agent: Cyber Deception and Behavioral Fingerprinting of LLM-Based Attackers** – *Dario Maddaloni, Anastasia Safargalieva, Emmanouil Vasilomanolakis* |
 | 09:55–10:15 | **AdvancedShelLM: A Stateful Multi-Agent LLM Honeypot for SSH Deception** – *Muris Sladić, Eman Alibalić, Veronica Valeros, Carlos Catania, Sebastian Garcia* |
@@ -27,7 +27,7 @@ permalink: /program_2026/
 | 11:10–11:30 | **No Time for Harvesting: Deception-Assisted Attribution of IPv6 Address Leakage in the NTP Pool** – *Stefan Groser, Sajad Homayoun* |
 | 11:30–11:50 | **Decoys Cannot Go Everywhere: Mapping the Deception Surface in MITRE ATT&CK** – *Veronica Valeros, Carlos Catania, Viliam Lisý, Harm Griffioen* |
 | 11:50–12:05 | **Position Paper: Development of an Automated Vulnerability Placement Framework for IaC-Based Honeynets** – *Marvin Sinnwell, Daniel Reti, Hans D. Schotten* |
-| 12:05–12:20 | **Workshop Conclusions** |
+| 12:05–12:20 | **Closing remarks and Open Discussion** |
 | 12:20–13:50 | **Lunch** |
 
 ### Session 3 — 13:50–14:40 – Keynote
