@@ -34,4 +34,4 @@ permalink: /program_2026/
 
 | Time        | Session |
 |------------:|--------|
-| 13:50–14:40 | Keynote TBA
+| 13:50–14:40 | **Keynote** *TBA* |
