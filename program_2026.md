@@ -8,9 +8,10 @@ permalink: /program_2026/
 
 **Friday, September 18, 2026**
 
-_Room 201, Building CU002_
-
 ### Session 1 — 09:00–10:30 – AI/LLM Deception & CTI
+
+_Room P1, Building CU037_
+
 
 | Time        | Session |
 |------------:|--------|
@@ -23,6 +24,8 @@ _Room 201, Building CU002_
 
 ### Session 2 — 10:50–12:20 – Honeypots, Honeynets & Human Decoys
 
+_Room P1, Building CU037_
+
 | Time        | Session |
 |------------:|--------|
 | 10:50–11:10 | **HoneyPeople: When Decoys Talk Back** – *Claudio Facchinetti, Daniele Santoro, Roberto Doriguzzi Corin, Domenico Siracusa* |
@@ -32,7 +35,9 @@ _Room 201, Building CU002_
 | 12:05–12:20 | **Closing remarks and Open Discussion** |
 | 12:20–13:50 | **Lunch** |
 
-### Session 3 — 13:50–14:40 – Keynote
+### Session 3 — 13:50–14:40 – Keynote 
+
+_Room 201, Building CU002_
 
 | Time        | Session |
 |------------:|--------|
