@@ -8,6 +8,8 @@ permalink: /program_2026/
 
 **Friday, September 18, 2026**
 
+_Room 201, Building CU002_
+
 ### Session 1 — 09:00–10:30 – AI/LLM Deception & CTI
 
 | Time        | Session |
