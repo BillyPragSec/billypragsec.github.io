@@ -19,13 +19,13 @@ a{
     text-decoration: none;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(to right, rgb(1, 198, 212), rgb(11, 78, 117) 50%, rgb(0, 65, 82) 50%);
+    background: linear-gradient(to right, #f08a24, #c8102e 50%, #9c0f26 50%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 200% 100%;
     background-position: 100%;
-    transition: background-position 275ms ease;
+    transition: background-position 400ms ease;
     }
     
 a:hover{
@@ -103,7 +103,7 @@ p {
 }
 .wrapper {
     min-height: 100%;
-    background-color: rgba(250, 255, 255, 0.904);
+    background-color: #fffaf4;
 }
 /* Mobile */
 
@@ -158,12 +158,316 @@ p {
 
 // adnd additions
 
-#banner{
-    background-image: linear-gradient(to bottom, rgba(0, 58, 58, 0.733), rgb(234, 255, 255)), url("../images/background.jpeg");
+// Madrid 2027 theme: Madrid crimson, sunset sky, city skyline
+html {
+    scroll-behavior: smooth;
+}
+
+#banner {
+    --skyline-h: 170px;
+    --skyline-w: 1200px;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to bottom,
+        #5f0b22 0%, #7d0e27 14%, #a1122b 30%, #bf2030 46%,
+        #d63f2f 60%, #e66233 72%, #f0873b 83%, #f6aa48 92%, #f9c765 100%);
     width: 100%;
-    height: 300px;
-    padding-bottom: 50px;
-    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.banner-title {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    padding: 34px 0 6px;
+    animation: banner-rise 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+#banner #author-name {
+    background: none;
+    -webkit-text-fill-color: #ffffff;
+    color: #ffffff;
+    font-size: 32px;
+    line-height: 1.3;
+    text-shadow: 0 1px 6px rgba(60, 5, 20, 0.45);
+}
+
+// setting sun glowing behind the skyline
+.banner-sun {
+    position: absolute;
+    z-index: 0;
+    left: 50%;
+    bottom: calc(var(--skyline-h) * 0.12);
+    width: calc(var(--skyline-h) * 1.9);
+    height: calc(var(--skyline-h) * 1.9);
+    margin-left: calc(var(--skyline-h) * -0.55);
+    border-radius: 50%;
+    background: radial-gradient(circle,
+        rgba(255, 244, 200, 0.95) 0%, rgba(255, 226, 150, 0.85) 16%,
+        rgba(255, 196, 110, 0.38) 34%, rgba(255, 170, 90, 0.12) 54%, rgba(255, 170, 90, 0) 70%);
+    animation: sun-breathe 9s ease-in-out infinite alternate;
+    pointer-events: none;
+    // the sun sets as the banner scrolls away
+    translate: 0 calc(var(--banner-progress, 0) * 90px);
+}
+
+.banner-skyline {
+    position: relative;
+    z-index: 1;
+    height: var(--skyline-h);
+    overflow: hidden;
+}
+
+// distant rooftops drifting slowly behind the landmarks
+.banner-skyline::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: calc(100% + 600px);
+    height: 110px;
+    background: url("../images/madrid-rooftops.svg") bottom left / 600px 110px repeat-x;
+    opacity: 0.5;
+    animation: rooftops-drift 70s linear infinite;
+}
+
+.banner-skyline::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        url("../images/madrid-skyline.svg") bottom center / var(--skyline-w) var(--skyline-h) no-repeat,
+        linear-gradient(to top, #2e0a1a calc(var(--skyline-h) * 0.14), transparent calc(var(--skyline-h) * 0.14));
+    animation: skyline-rise 1200ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.content {
+    animation: content-fade 700ms ease-out 150ms both;
+}
+
+.content h2 {
+    padding-bottom: 4px;
+    border-bottom: 2px solid rgba(200, 16, 46, 0.25);
+    scroll-margin-top: 16px;
+}
+
+.nav-list a {
+    display: inline-block;
+    transition: background-position 400ms ease, transform 250ms ease;
+}
+
+.nav-list a:hover {
+    transform: translateY(-2px);
+}
+
+@keyframes banner-rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes skyline-rise {
+    from { opacity: 0; transform: translateY(36px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes content-fade {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes sun-breathe {
+    from { transform: translateY(0) scale(1); opacity: 0.9; }
+    to   { transform: translateY(12px) scale(1.07); opacity: 1; }
+}
+
+@keyframes rooftops-drift {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-600px); }
+}
+
+@media (max-width: 650px) {
+    #banner {
+        --skyline-h: 120px;
+        --skyline-w: 847px;
+    }
+    #banner #author-name {
+        font-size: 22px;
+    }
+    .banner-skyline::before {
+        height: 78px;
+        width: calc(100% + 425px);
+        background-size: 425px 78px;
+        animation-name: rooftops-drift-small;
+    }
+}
+
+@keyframes rooftops-drift-small {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-425px); }
+}
+
+// swifts crossing the evening sky
+.swift {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 30px;
+    pointer-events: none;
+    will-change: transform;
+
+    svg {
+        display: block;
+        width: 100%;
+        fill: #2e0a1a;
+        animation: swift-flap 0.42s ease-in-out infinite alternate;
+    }
+}
+.swift-1 { animation: swift-fly-a 19s linear infinite; }
+.swift-2 { animation: swift-fly-a 19s linear -0.9s infinite; width: 22px; margin-top: 26px; }
+.swift-3 { animation: swift-fly-b 26s linear -8s infinite; width: 26px; }
+.swift-4 { animation: swift-fly-b 26s linear -9.2s infinite; width: 18px; margin-top: -18px; }
+.swift-5 { animation: swift-fly-c 33s linear -15s infinite; width: 20px; }
+
+@keyframes swift-flap {
+    from { transform: scaleY(1); }
+    to   { transform: scaleY(0.35); }
+}
+@keyframes swift-fly-a {
+    0%   { transform: translate(-8vw, 150px) rotate(-10deg); }
+    30%  { transform: translate(28vw, 70px) rotate(-6deg); }
+    55%  { transform: translate(58vw, 110px) rotate(8deg); }
+    80%  { transform: translate(88vw, 50px) rotate(-12deg); }
+    100% { transform: translate(112vw, 20px) rotate(-12deg); }
+}
+@keyframes swift-fly-b {
+    0%   { transform: translate(110vw, 60px) scaleX(-1) rotate(-6deg); }
+    35%  { transform: translate(70vw, 140px) scaleX(-1) rotate(8deg); }
+    65%  { transform: translate(35vw, 80px) scaleX(-1) rotate(-10deg); }
+    100% { transform: translate(-10vw, 170px) scaleX(-1) rotate(6deg); }
+}
+@keyframes swift-fly-c {
+    0%   { transform: translate(-8vw, 40px) rotate(6deg); }
+    25%  { transform: translate(18vw, 190px) rotate(4deg); }
+    50%  { transform: translate(47vw, 60px) rotate(-14deg); }
+    75%  { transform: translate(80vw, 180px) rotate(8deg); }
+    100% { transform: translate(112vw, 90px) rotate(-8deg); }
+}
+
+// madrono (strawberry tree, the symbol of Madrid) branches down both sides of the page
+.page-body {
+    position: relative;
+}
+.side-art {
+    display: none;
+}
+@media (min-width: 1180px) {
+    .side-art {
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: calc((100% - #{$max-width}) / 2 - 24px);
+        pointer-events: none;
+        z-index: 1;
+    }
+    .side-left { left: 0; }
+    .side-right { right: 0; transform: scaleX(-1); }
+}
+.side-sticky {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+.madrono {
+    display: block;
+    width: 100%;
+    max-width: 230px;
+    overflow: visible;
+    // as the page scrolls, the branch swings back towards the edge and fades away
+    transform-origin: 0 0;
+    transform:
+        translateX(calc(var(--side-progress, 0) * -55%))
+        rotate(calc(var(--side-progress, 0) * -22deg))
+        scale(calc(1 - var(--side-progress, 0) * 0.25));
+    opacity: calc(1 - var(--side-progress, 0) * 1.15);
+    transition: transform 180ms ease-out, opacity 180ms ease-out;
+}
+.madrono-branch {
+    transform-origin: 0 30px;
+    animation: branch-sway 7s ease-in-out infinite alternate;
+}
+.madrono-leaf {
+    transform-origin: 0 0;
+    animation: leaf-flutter 4.5s ease-in-out infinite alternate;
+}
+.madrono-berries {
+    transform-origin: 0 0;
+    animation: berries-swing 3.8s ease-in-out infinite alternate;
+}
+@keyframes branch-sway {
+    from { transform: rotate(-1.6deg); }
+    to   { transform: rotate(1.8deg); }
+}
+@keyframes leaf-flutter {
+    from { transform: rotate(-5deg); }
+    to   { transform: rotate(6deg); }
+}
+@keyframes berries-swing {
+    from { transform: rotate(-7deg); }
+    to   { transform: rotate(7deg); }
+}
+
+// leaves drifting down the side margins
+.side-sticky .fall-leaf {
+    // once the branches are gone only a few small leaves keep drifting
+    scale: calc(1 - var(--side-progress, 0) * 0.45);
+}
+.fall-leaf {
+    position: absolute;
+    top: -30px;
+    width: 26px;
+    opacity: 0;
+    animation: leaf-fall 17s linear infinite;
+}
+.fall-leaf-1 { left: 22%; animation-duration: 16s; animation-delay: -2s; }
+.fall-leaf-2 { left: 58%; animation-duration: 21s; animation-delay: -11s; width: 20px; }
+.fall-leaf-3 { left: 40%; animation-duration: 18s; animation-delay: -7s; width: 22px; }
+.fall-leaf-4 { left: 74%; animation-duration: 24s; animation-delay: -16s; }
+.fall-leaf-5 { left: 10%; animation-duration: 20s; animation-delay: -13s; width: 18px; }
+@keyframes leaf-fall {
+    0%   { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+    8%   { opacity: 0.85; }
+    25%  { transform: translate(34px, 26vh) rotate(140deg); }
+    50%  { transform: translate(-22px, 52vh) rotate(250deg); }
+    75%  { transform: translate(28px, 78vh) rotate(400deg); opacity: 0.85; }
+    100% { transform: translate(-10px, 104vh) rotate(520deg); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+    .banner-title,
+    .banner-sun,
+    .banner-skyline::before,
+    .banner-skyline::after,
+    .content,
+    .madrono-branch,
+    .madrono-leaf,
+    .madrono-berries {
+        animation: none;
+    }
+    .swift,
+    .fall-leaf {
+        display: none;
+    }
+    .nav-list a:hover {
+        transform: none;
+    }
 }
 
 .support-grid {
@@ -176,26 +480,26 @@ p {
 .support-card {
     display: block;
     background: #ffffff;
-    border: 1px solid rgba(0, 58, 58, 0.14);
+    border: 1px solid rgba(110, 15, 35, 0.14);
     border-radius: 14px;
     padding: 18px 18px 14px;
     text-align: center;
-    box-shadow: 0 10px 24px rgba(0, 58, 58, 0.08);
+    box-shadow: 0 10px 24px rgba(110, 15, 35, 0.08);
 }
 
 .support-card-link {
     background: #ffffff;
     background-image: none;
     -webkit-text-fill-color: initial;
-    color: #16363c;
+    color: #3b0d22;
     transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
 }
 
 .support-card-link:hover {
     background-position: 100% 0;
     transform: translateY(-2px);
-    box-shadow: 0 14px 28px rgba(0, 58, 58, 0.14);
-    border-color: rgba(0, 58, 58, 0.26);
+    box-shadow: 0 14px 28px rgba(110, 15, 35, 0.14);
+    border-color: rgba(110, 15, 35, 0.26);
 }
 
 .support-logo-frame {
@@ -236,5 +540,5 @@ p {
     text-align: center;
     font-size: 20px;
     font-weight: 600;
-    color: #16363c;
+    color: #3b0d22;
 }

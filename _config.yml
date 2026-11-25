@@ -1,19 +1,14 @@
-title: 5th Workshop on Active Defense and Deception (AD&D) <br> September 18th 2026, Rome, Italy <br> co-located with the 31st European Symposium on Research in Computer Security (ESORICS) 2026
+title: 6th Workshop on Active Defense and Deception (AD&D) <br> July 9th 2027, Madrid, Spain <br> co-located with the 12th IEEE European Symposium on Security and Privacy (IEEE EuroS&P'27)
 url: "adnd.work"
 
 markdown: kramdown
 
 nav:
-    - {name: CFP, link: '/index.html#call-for-contributions'}
+    - {name: Important Dates, link: '/index.html#important-dates'}
+    - {name: Call for Papers, link: '/index.html#call-for-papers'}
     - {name: Submission, link: '/index.html#submission-guidelines'}
-    - {name: Accepted Papers, link: '/accepted_papers_2026/'}
-    - {name: Program, link: '/program_2026/'}
-    - {name: ADnD 2025 (Archive), link: '/archive_2025/'}
-    - {name: ADnD 2024 (Archive), link: '/archive_2024/'}
-    - {name: ADnD 2023 (Archive), link: '/archive_2023/'}
-    - {name: ADnD 2022 (Archive), link: '/archive_2022/'}
-    
-
+    - {name: Organization, link: '/index.html#organization'}
+    - {name: Past Editions, link: '/past_editions/'}
 
 tracking_id: #
 

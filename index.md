@@ -4,31 +4,24 @@ description: Workshop on Active Defense and Deception (AD&D)
 ---
 
 ## Workshop on Active Defense and Deception
-The 5th Workshop on Active Defense and Deception (AD&D) will take place on September 18, 2026, in Rome, Italy, co-located with the 31st European Symposium on Research in Computer Security (ESORICS) 2026.
+The 6th Workshop on Active Defense and Deception (AD&D) will take place on July 9, 2027, in Madrid, Spain, co-located with the 12th IEEE European Symposium on Security and Privacy ([IEEE EuroS&P'27](https://eurosp2027.ieee-security.org/)). AD&D is supported by [The Honeynet Project](https://www.honeynet.org).
 
 The AD&D workshop intends to promote **Active Defense** (AD) as an additional layer of protection against the imbalance of active attackers and passive defenders. In particular, the "assume breach" mentality is becoming the new normal, proactively interacting with adversaries using deception, system modification and run-time defensive mechanisms can offer a very viable method for detecting sophisticated multi-stage attacks. Although this methodology has great promise, AD is currently being underutilized because there are several barriers preventing wider industry acceptance such as: developing methods for measuring the value and effectiveness of AD, implementing AD in current systems, and understanding what motivates attacker behavior.
 
 Therefore, the purpose of the AD&D workshop is to bring together multiple disciplines including Information Security, Cognitive Science and Psychology to help develop solutions to overcome some of the above mentioned barriers and increase adoption. More broadly, the Workshop wants to provide a forum to discuss issues associated with evaluating AD, influencing attacker decisions making and designing deceptions which have long-term viability with the ultimate goal of moving AD from theoretical concepts into practical applications.
 
 ## Important Dates
-* Submission deadline (extended): June 25, 2026
-* Acceptance notice to authors: July 21, 2026
-* Publication-ready papers submitted: August 22, 2026
-* Workshop date: September 18, 2026
+All deadlines are [Anywhere on Earth (AoE = UTC-12h)](https://www.timeanddate.com/time/zones/aoe).
 
+* Submission deadline: February 27, 2027 (tentative)
+* Notification of acceptance: March 27, 2027 (tentative)
+* Camera ready: April 8, 2027 (tentative)
+* Workshop date: July 9, 2027
 
-## Call for contributions
-AD&D accepts three types of contributions:
+## Call for Papers
+The AD&D workshop invites submissions from researchers and practitioners in the field of Active Defense and Deception. The workshop aims to promote Active Defense as an effective extra security layer, advancing research and encouraging its adoption by industry.
 
-- Research Papers: Traditional research papers with novel contributions are accepted in full and short paper formats.
-- Position Papers: Position papers should present novel, preliminary research ideas or perspectives that aim to spark discussion and exploration within the community, and should include the text "Position Paper:" at the beginning of the title.
-- Experience Papers: Experience papers should share novel insights, findings, or lessons learned from real-world applications or deployments in the context of active defense, and should include the text "Experience Paper:" at the beginning of the title.
-
-The full research papers must be no longer than 16 pages, while short research papers, position papers, and experience papers must be no longer than 10 pages. Page limits including all figures but exclude bibliography and well-marked appendices, which however cannot exceed 4 pages. Note that reviewers are not required to read the appendices.
-All submissions must be anonymized. The program committee will evaluate submissions based on relevance, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
-
-
-### Areas of Interest
+### Topics of Interest
 Topics of interest include, but are not limited to:
 
 * All types of active defense methods: moving target defense, dynamic and runtime defenses, and deception use cases
@@ -48,56 +41,59 @@ Topics of interest include, but are not limited to:
 
 Authors are encouraged to contribute research that addresses these topics and pushes the boundaries of knowledge in Active Defense and Deception. Papers reporting industry experiences and case studies will also be encouraged.
 
-__Note that we exclude the concepts of preemptive attacks, hacking back, and counter-attacks.__
-
-## Policy Against the Use of Generative AI
-In principle, generative AI is not allowed for submissions except for language polishing purposes. In the latter case, authors should acknowledge the usage of generative AI. If a submission is suspected to use generative AI tools, the authors will be contacted and the paper may risk a desk rejection. Furthermore, usage of AI is not allowed for the review process by the program committee.
-
+__Note that we exclude the concepts of preemptive attacks, hacking back, and counterattacks.__
 
 ## Submission Guidelines
-Submitted papers must comply with the LNCS template at the time of submission. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. 
+We accept two different types of submissions:
 
-Submissions must be uploaded to the following EasyChair website:
-[https://easychair.org/my/conference?conf=esorics2026](https://easychair.org/my/conference?conf=esorics2026)
+- **Research Papers:** Traditional research papers with novel contributions are accepted in full paper format. The full papers must be no longer than 13 pages. References and appendices will not count towards this limit, but reviewers are not required to read the appendices.
+- **Position and Experience Papers:** Position papers should present novel, preliminary research ideas or perspectives that aim to spark discussion and exploration within the community. Experience papers should share novel insights, findings, or lessons learned from real-world applications or deployments in the context of active defense. In both cases, submissions must not exceed 8 pages and should include the text "Position Paper:" or "Experience Paper:" at the beginning of the title. References and appendices do not count toward the page limit; however, reviewers are not obligated to read the appendices.
 
-Only PDF files will be accepted. Submissions are double-blind: no author names or affiliations may appear on the title page, and papers should avoid revealing authors’ identities in the text. Submissions not meeting these guidelines risk rejection without consideration of their merits. 
+Submitted papers must be written in English and must not exceed 13 pages (or 8 pages for Experience and Position papers), excluding references and appendices. Papers must be typeset in LaTeX in A4 format (not US Letter) using the IEEE EuroS&P conference proceedings template ([eurosp2027-template.zip](https://eurosp2027.ieee-security.org/eurosp2027-template.zip)) while adhering to the guidelines of the main conference. Papers must be anonymized. For further information please refer to the "Page Limit and Formatting" section of the [IEEE EuroS&P'27 call for papers](https://eurosp2027.ieee-security.org/cfp.html).
 
-Authors of accepted papers must agree with Springer LNCS copyright and are requested to ensure that their papers are presented at the workshop, and to complete the registration for workshop attendance.
+The program committee will evaluate the submissions based on relevancy, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
-## Workshop Format
-One author of each accepted contribution is expected to present the work at the workshop. The format is expected to include traditional conference-style presentations followed by questions and feedback from the audience. Interactive and engaging presentations are welcomed.
+### Review Process and Proceedings
+All submissions will undergo a double-blind reviewing process, so authors must make sure that initial submissions do not contain information that might reveal their identity (e.g., author names, affiliations, email addresses, or obvious self-references). It is the author's responsibility to ensure that their anonymity is preserved when citing their own work. Failures to adhere to these requirements can be grounds for rejection.
 
-More information regarding speaking times, proceedings, and camera-ready requirements will be provided following notification to authors.
+Accepted papers will be published through IEEE Xplore in a volume accompanying the main IEEE EuroS&P 2027 proceedings. Authors may choose to have their paper excluded from the proceedings by selecting the "Exclude from conference proceedings" topic on the submission site. At least one author for each accepted paper is expected to register and participate in the workshop for presentation.
 
-## Student Scholarship by The Honeynet Project 🎓
-We don't think a limited budget should keep students from attending the Workshop on Active Defense and Deception. To help make the event more accessible, The Honeynet Project is offering a scholarship for selected university students.
- 
-Scholarship recipients will have their workshop registration covered by THP, allowing them to attend the AD&D workshop. The scholarship is open to undergraduate and graduate university students. To apply, please complete the [application form.](https://forms.gle/VEaf3AuUQY3Z4Wpj8). 
+All submissions considered for inclusion in the proceedings must contain an original contribution and should not be concurrently submitted to other workshops, conferences, or journals. These requirements are relaxed for papers that will not be included in the proceedings.
 
-- Submission deadline: August 25, 2026, 23:59:59 (AoE)
+### Proactive Prevention of Harm
+We expect authors to carefully consider and address the potential harms associated with carrying out their research, as well as the potential negative consequences that could stem from publishing their work. Failure to adequately discuss such potential harms within the body of the submission may result in rejection of a submission, regardless of its quality and scientific value. These are particularly relevant to topics such as social engineering and the deception of humans, which are of interest to the AD&D workshop.
 
-- Notification of Decision: August 30, 2026
+### Open Science Expectations
+Our expectation for EuroS&P is that researchers will maximize the scientific and community value of their work by making it as open as possible. This means that, by default, all the code, data, and other materials (such as survey instruments) needed to reproduce the work described in an accepted paper will be released publicly under an open-source license.
 
-**We particularly encourage students from underrepresented groups to apply.**
+Sometimes it is not possible to share work this openly, such as when it involves malware samples, data from human subjects that must be protected, or proprietary data obtained under agreement that precludes publishing the data itself. All submissions are encouraged to include a clear statement on Data Availability that explains how the artifacts needed to reproduce their work will be shared, or an explanation of why they will not be shared. If data reproducibility is required for significant contributions of the work and the authors do not explain reproducibility and/or share the artifacts, papers that fail to satisfy these commitments may be removed from the conference.
+
+### Use of AI
+The use of AI-generated content (including but not limited to text, figures, images, and code) shall be disclosed in the acknowledgments section. At the time of submission, the acknowledgments do not count towards the page limit. The AI system used shall be identified, and specific sections of the article that use AI-generated content shall be identified and accompanied by a brief explanation regarding the level at which the AI system was used to generate the content.
+
+The use of AI systems for editing and grammar enhancement is common practice and, as such, is generally outside the intent of the above policy. In this case, disclosure as noted above is not required, but recommended.
 
 ## Organization
 
-### General chairs
-* Denis Donadel, Fondazione Bruno Kessler (FBK)
-* Francesco Lupia, University of Calabria
-
-### Publicity chair
-* Natalia Stakhanova, University of Saskatchewan, Canada
+### General Chairs (also serving as PC chairs)
+* Denis Donadel, Fondazione Bruno Kessler, Italy
+* Francesco Lupia, University of Calabria, Italy
+* Domenico Siracusa, University of Trento, Italy
 
 ### Steering Committee
 * Georgios Portokalidis, IMDEA Software
 * Merve Sahin, SAP Security Research
 * Nick Nikiforakis, Stony Brook University
 * Emmanouil Vasilomanolakis, Technical University of Denmark
-* Mauro Conti, University of Padua
-* Andrea Pugliese, University of Calabria
 
-### Program Committee
+### Publicity Chair (tentative)
+* Natalia Stakhanova, University of Saskatchewan, Canada
+
+### Web Chairs
+* Anastasia Safargalieva, Technical University of Denmark
+* Dario Maddaloni, Technical University of Denmark
+
+### Technical Program Committee (tentative)
 * Merve Sahin, SAP Security Research
 * Emmanouil Vasilomanolakis, Technical University of Denmark
 * Massimo Merro, University of Verona
@@ -106,37 +102,23 @@ Scholarship recipients will have their workshop registration covered by THP, all
 * Efrén López-Morales, New Mexico State University
 * Roberto Doriguzzi Corin, Fondazione Bruno Kessler (FBK)
 * Alessandro Cantelli-Forti, Lab RaSS National Laboratory - CNIT
-* Giacomo Longo, University School of Advanced Defense Studies
 * Timothy Barron, Yale University
 * Alessandro Brighente, University of Padua
 * Billy Tsouvalas, Stony Brook University
 * Shreyas Srinivasa, Terma A/S
-* Carmelo Felicetti, University of Calabria
-* Vincenzo De Angelis, University of Calabria
+* Vincenzo De Angelis, Università Mediterranea di Reggio Calabria
 * Sara Lazzaro, Università Mediterranea di Reggio Calabria
 * Arul Sagayam, Bloomberg
 * Stefan Rass, Johannes Kepler University Linz
 * Stash Kempinski, Eindhoven University of Technology
 * Isabella Marasco, Alma Mater Studiorum - University of Bologna
-* Giuseppe Salerno, University of Calabria
 * Martin Rosso, University of Padua
 * Emad Efatinasab, University of Padua
 * Hosam Alamleh, University of North Carolina Wilmington
+* Thomas Marchioro, CEA
 
 ## Supported by
 <div class="support-grid">
-  <a class="support-card support-card-link" href="https://dimes.unical.it" target="_blank" rel="noopener noreferrer">
-    <div class="support-logo-frame">
-      <img class="support-logo support-logo-dimes" src="/images/support-unical.png" alt="DIMES department logo">
-    </div>
-    <p class="support-name">DIMES, University of Calabria</p>
-  </a>
-   <a class="support-card support-card-link" href="https://www.fbk.eu" target="_blank" rel="noopener noreferrer">
-    <div class="support-logo-frame">
-      <img class="support-logo support-logo-fbk" src="/images/support-fbk.png" alt="Fondazione Bruno Kessler logo">
-    </div>
-    <p class="support-name">Fondazione Bruno Kessler</p>
-  </a>
   <a class="support-card support-card-link" href="https://www.honeynet.org" target="_blank" rel="noopener noreferrer">
     <div class="support-logo-frame">
       <img class="support-logo support-logo-honeynet" src="/images/support-honeynet.png" alt="The Honeynet Project logo">
@@ -147,4 +129,3 @@ Scholarship recipients will have their workshop registration covered by THP, all
 
 <br>
 <br>
----

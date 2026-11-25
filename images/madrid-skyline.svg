@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" fill="#2e0a1a" stroke="#2e0a1a" stroke-width="2.5" stroke-linejoin="round">
+  <!-- low rooftops -->
+  <path d="M0 170V146h40v-8h34v12h30v-10h150v12h40v-14h28v10h36v-8h110v8h38v-10h30v12h150v-9h34v9h160v-12h36v10h40v-8h44v10h60v-12h30v14h76V170Z"/>
+  <!-- Cuatro Torres -->
+  <path d="M92 170V34q13-8 26 0V170Z"/>
+  <path d="M126 170V30l24-12V170Z"/>
+  <path d="M158 170V22h26V170Z M165 28h12v10h-12Z" fill-rule="evenodd"/>
+  <path d="M192 170V40q11-10 22 0V170Z"/>
+  <!-- Puerta de Europa (KIO towers) -->
+  <path d="M330 170h38l30-112h-38Z"/>
+  <path d="M472 170h-38l-30-112h38Z"/>
+  <!-- Puerta de Alcala -->
+  <path fill-rule="evenodd" d="M520 170V106h180V170Z M532 170V134h18V170Z M565 170V136a10 10 0 0 1 20 0V170Z M600 170V136a10 10 0 0 1 20 0V170Z M635 170V136a10 10 0 0 1 20 0V170Z M670 170V134h18V170Z"/>
+  <path d="M514 99h192v8H514Z M578 78h64v22h-64Z M584 78q26-22 52 0Z M524 92h10v8h-10Z M686 92h10v8h-10Z"/>
+  <!-- Metropolis -->
+  <path d="M755 170V96h70V170Z M772 97V76h36v21Z M770 77q20-46 40 0Z M788.5 30h3v18h-3Z M780 36l10 6 10-6-10 2Z"/>
+  <!-- Telefonica -->
+  <path d="M860 170V92h60V170Z M870 93V66h40v27Z M880 67V46h20v21Z M888.5 26h3v21h-3Z"/>
+  <!-- Palacio de Cibeles -->
+  <path d="M950 170V112h140V170Z M1008 113V62h24v51Z M1006 62l14-32 14 32Z M960 113V88h16v25Z M958 88l10-20 10 20Z M1064 113V88h16v25Z M1062 88l10-20 10 20Z"/>
+  <!-- Torrespana (Piruli) -->
+  <path d="M1139 170V18h4V170Z M1131 60h20v5h-20Z M1133 67h16v10h-16Z M1135 79h12v4h-12Z"/>
+</svg>
