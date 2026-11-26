@@ -53,6 +53,8 @@ Submitted papers must be written in English and must not exceed 13 pages (or 8 p
 
 The program committee will evaluate the submissions based on relevancy, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
+**Submission URL**: TBD
+
 ### Review Process and Proceedings
 All submissions will undergo a *double-blind* reviewing process, so authors must make sure that initial submissions do not contain information that might reveal their identity (e.g., author names, affiliations, email addresses, or obvious self-references). It is the author's responsibility to ensure that their anonymity is preserved when citing their own work. Failures to adhere to these requirements can be grounds for rejection.
 
