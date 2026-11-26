@@ -15,7 +15,7 @@ All deadlines are [Anywhere on Earth (AoE = UTC-12h)](https://www.timeanddate.co
 
 * Submission deadline: February 27, 2027
 * Notification of acceptance: March 27, 2027
-* Camera ready: April 8, 2027
+* Camera ready: April 7, 2027
 * Workshop date: July 9, 2027
 
 ## Call for Papers
