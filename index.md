@@ -13,9 +13,9 @@ Therefore, the purpose of the AD&D workshop is to bring together multiple discip
 ## Important Dates
 All deadlines are [Anywhere on Earth (AoE = UTC-12h)](https://www.timeanddate.com/time/zones/aoe).
 
-* Submission deadline: February 27, 2027 (tentative)
-* Notification of acceptance: March 27, 2027 (tentative)
-* Camera ready: April 8, 2027 (tentative)
+* Submission deadline: February 27, 2027
+* Notification of acceptance: March 27, 2027
+* Camera ready: April 8, 2027
 * Workshop date: July 9, 2027
 
 ## Call for Papers
@@ -54,7 +54,7 @@ Submitted papers must be written in English and must not exceed 13 pages (or 8 p
 The program committee will evaluate the submissions based on relevancy, impact, and the potential to spark discussion at the workshop. Interdisciplinary work is appreciated and encouraged.
 
 ### Review Process and Proceedings
-All submissions will undergo a double-blind reviewing process, so authors must make sure that initial submissions do not contain information that might reveal their identity (e.g., author names, affiliations, email addresses, or obvious self-references). It is the author's responsibility to ensure that their anonymity is preserved when citing their own work. Failures to adhere to these requirements can be grounds for rejection.
+All submissions will undergo a *double-blind* reviewing process, so authors must make sure that initial submissions do not contain information that might reveal their identity (e.g., author names, affiliations, email addresses, or obvious self-references). It is the author's responsibility to ensure that their anonymity is preserved when citing their own work. Failures to adhere to these requirements can be grounds for rejection.
 
 Accepted papers will be published through IEEE Xplore in a volume accompanying the main IEEE EuroS&P 2027 proceedings. Authors may choose to have their paper excluded from the proceedings by selecting the "Exclude from conference proceedings" topic on the submission site. At least one author for each accepted paper is expected to register and participate in the workshop for presentation.
 
@@ -73,9 +73,11 @@ The use of AI-generated content (including but not limited to text, figures, ima
 
 The use of AI systems for editing and grammar enhancement is common practice and, as such, is generally outside the intent of the above policy. In this case, disclosure as noted above is not required, but recommended.
 
+Following the [IEEE Reviewer Policy](https://journals.ieeeauthorcenter.ieee.org/submit-your-article-for-peer-review/become-an-ieee-reviewer/#ai), reviewers must not use AI tools to generate or draft reviews.
+
 ## Organization
 
-### General Chairs (also serving as PC chairs)
+### General Chairs
 * Denis Donadel, Fondazione Bruno Kessler, Italy
 * Francesco Lupia, University of Calabria, Italy
 * Domenico Siracusa, University of Trento, Italy
@@ -86,36 +88,12 @@ The use of AI systems for editing and grammar enhancement is common practice and
 * Nick Nikiforakis, Stony Brook University
 * Emmanouil Vasilomanolakis, Technical University of Denmark
 
-### Publicity Chair (tentative)
-* Natalia Stakhanova, University of Saskatchewan, Canada
-
 ### Web Chairs
 * Anastasia Safargalieva, Technical University of Denmark
 * Dario Maddaloni, Technical University of Denmark
 
-### Technical Program Committee (tentative)
-* Merve Sahin, SAP Security Research
-* Emmanouil Vasilomanolakis, Technical University of Denmark
-* Massimo Merro, University of Verona
-* Nicola Zannone, Eindhoven University of Technology
-* Alessio Merlo, University School of Advanced Defense Studies
-* Efrén López-Morales, New Mexico State University
-* Roberto Doriguzzi Corin, Fondazione Bruno Kessler (FBK)
-* Alessandro Cantelli-Forti, Lab RaSS National Laboratory - CNIT
-* Timothy Barron, Yale University
-* Alessandro Brighente, University of Padua
-* Billy Tsouvalas, Stony Brook University
-* Shreyas Srinivasa, Terma A/S
-* Vincenzo De Angelis, Università Mediterranea di Reggio Calabria
-* Sara Lazzaro, Università Mediterranea di Reggio Calabria
-* Arul Sagayam, Bloomberg
-* Stefan Rass, Johannes Kepler University Linz
-* Stash Kempinski, Eindhoven University of Technology
-* Isabella Marasco, Alma Mater Studiorum - University of Bologna
-* Martin Rosso, University of Padua
-* Emad Efatinasab, University of Padua
-* Hosam Alamleh, University of North Carolina Wilmington
-* Thomas Marchioro, CEA
+### Technical Program Committee 
+TBD
 
 ## Supported by
 <div class="support-grid">
